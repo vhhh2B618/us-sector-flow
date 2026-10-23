@@ -1,0 +1,2534 @@
+{
+  "source": "Wikipedia List of S&P 500 companies",
+  "n_tickers": 503,
+  "sectors_zh": {
+    "Information Technology": "科技",
+    "Financials": "金融",
+    "Health Care": "醫療保健",
+    "Consumer Discretionary": "非必需消費",
+    "Consumer Staples": "必需消費",
+    "Industrials": "工業",
+    "Energy": "能源",
+    "Utilities": "公用事業",
+    "Real Estate": "房地產",
+    "Materials": "材料",
+    "Communication Services": "通訊服務"
+  },
+  "tickers": {
+    "MMM": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "3M"
+    },
+    "AOS": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "A. O. Smith"
+    },
+    "ABT": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Abbott Laboratories"
+    },
+    "ABBV": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "AbbVie"
+    },
+    "ACN": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Accenture"
+    },
+    "ADBE": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Adobe Inc."
+    },
+    "AMD": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Advanced Micro Devices"
+    },
+    "AES": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "AES Corporation"
+    },
+    "AFL": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Aflac"
+    },
+    "A": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Agilent Technologies"
+    },
+    "APD": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Air Products"
+    },
+    "ABNB": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Airbnb"
+    },
+    "AKAM": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Akamai Technologies"
+    },
+    "ALB": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Albemarle Corporation"
+    },
+    "ARE": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Alexandria Real Estate Equities"
+    },
+    "ALGN": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Align Technology"
+    },
+    "ALLE": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Allegion"
+    },
+    "LNT": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Alliant Energy"
+    },
+    "ALL": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Allstate"
+    },
+    "GOOGL": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Alphabet Inc. (Class A)"
+    },
+    "GOOG": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Alphabet Inc. (Class C)"
+    },
+    "MO": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Altria"
+    },
+    "AMZN": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Amazon"
+    },
+    "AMCR": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Amcor"
+    },
+    "AEE": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Ameren"
+    },
+    "AEP": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "American Electric Power"
+    },
+    "AXP": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "American Express"
+    },
+    "AIG": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "American International Group"
+    },
+    "AMT": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "American Tower"
+    },
+    "AWK": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "American Water Works"
+    },
+    "AMP": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Ameriprise Financial"
+    },
+    "AME": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Ametek"
+    },
+    "AMGN": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Amgen"
+    },
+    "APH": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Amphenol"
+    },
+    "ADI": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Analog Devices"
+    },
+    "AON": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Aon plc"
+    },
+    "APA": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "APA Corporation"
+    },
+    "APO": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Apollo Global Management"
+    },
+    "AAPL": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Apple Inc."
+    },
+    "AMAT": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Applied Materials"
+    },
+    "APP": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "AppLovin"
+    },
+    "APTV": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Aptiv"
+    },
+    "ACGL": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Arch Capital Group"
+    },
+    "ADM": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Archer Daniels Midland"
+    },
+    "ARES": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Ares Management"
+    },
+    "ANET": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Arista Networks"
+    },
+    "AJG": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Arthur J. Gallagher &amp; Co."
+    },
+    "AIZ": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Assurant"
+    },
+    "T": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "AT&amp;T"
+    },
+    "ATO": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Atmos Energy"
+    },
+    "ADSK": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Autodesk"
+    },
+    "ADP": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Automatic Data Processing"
+    },
+    "AZO": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "AutoZone"
+    },
+    "AVY": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Avery Dennison"
+    },
+    "AXON": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Axon Enterprise"
+    },
+    "BKR": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Baker Hughes"
+    },
+    "BALL": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Ball Corporation"
+    },
+    "BAC": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Bank of America"
+    },
+    "BAX": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Baxter International"
+    },
+    "BDX": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Becton Dickinson"
+    },
+    "BRK-B": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Berkshire Hathaway"
+    },
+    "BBY": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Best Buy"
+    },
+    "TECH": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Bio-Techne"
+    },
+    "BIIB": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Biogen"
+    },
+    "BLK": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "BlackRock"
+    },
+    "BX": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Blackstone Inc."
+    },
+    "XYZ": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Block, Inc."
+    },
+    "BE": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Bloom Energy"
+    },
+    "BNY": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "BNY Mellon"
+    },
+    "BA": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Boeing"
+    },
+    "BKNG": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Booking Holdings"
+    },
+    "BSX": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Boston Scientific"
+    },
+    "BMY": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Bristol Myers Squibb"
+    },
+    "AVGO": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Broadcom"
+    },
+    "BR": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Broadridge Financial Solutions"
+    },
+    "BRO": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Brown &amp; Brown"
+    },
+    "BF-B": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Brown–Forman"
+    },
+    "BG": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Bunge Global"
+    },
+    "BXP": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "BXP, Inc."
+    },
+    "CHRW": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "C.H. Robinson"
+    },
+    "CDNS": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Cadence Design Systems"
+    },
+    "CPT": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Camden Property Trust"
+    },
+    "COF": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Capital One"
+    },
+    "CAH": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Cardinal Health"
+    },
+    "CCL": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Carnival Corporation"
+    },
+    "CARR": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Carrier Global"
+    },
+    "CVNA": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Carvana"
+    },
+    "CASY": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Casey's"
+    },
+    "CAT": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Caterpillar Inc."
+    },
+    "CBOE": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Cboe Global Markets"
+    },
+    "CBRE": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "CBRE Group"
+    },
+    "CDW": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "CDW Corporation"
+    },
+    "COR": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Cencora"
+    },
+    "CNC": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Centene Corporation"
+    },
+    "CNP": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "CenterPoint Energy"
+    },
+    "CF": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "CF Industries"
+    },
+    "CRL": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Charles River Laboratories"
+    },
+    "SCHW": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Charles Schwab Corporation"
+    },
+    "CHTR": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Charter Communications"
+    },
+    "CVX": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Chevron Corporation"
+    },
+    "CMG": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Chipotle Mexican Grill"
+    },
+    "CB": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Chubb Limited"
+    },
+    "CHD": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Church &amp; Dwight"
+    },
+    "CIEN": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Ciena"
+    },
+    "CI": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Cigna"
+    },
+    "CINF": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Cincinnati Financial"
+    },
+    "CTAS": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Cintas"
+    },
+    "CSCO": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Cisco"
+    },
+    "C": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Citigroup"
+    },
+    "CFG": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Citizens Financial Group"
+    },
+    "CLX": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Clorox"
+    },
+    "CME": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "CME Group"
+    },
+    "CMS": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "CMS Energy"
+    },
+    "KO": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Coca-Cola Company (The)"
+    },
+    "CTSH": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Cognizant"
+    },
+    "COHR": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Coherent Corp."
+    },
+    "COIN": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Coinbase"
+    },
+    "CL": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Colgate-Palmolive"
+    },
+    "CMCSA": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Comcast"
+    },
+    "FIX": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Comfort Systems USA"
+    },
+    "COP": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "ConocoPhillips"
+    },
+    "ED": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Consolidated Edison"
+    },
+    "STZ": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Constellation Brands"
+    },
+    "CEG": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Constellation Energy"
+    },
+    "COO": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Cooper Companies (The)"
+    },
+    "CPRT": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Copart"
+    },
+    "GLW": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Corning Inc."
+    },
+    "CPAY": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Corpay"
+    },
+    "CSGP": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "CoStar Group"
+    },
+    "COST": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Costco"
+    },
+    "CRH": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "CRH plc"
+    },
+    "CRWD": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "CrowdStrike"
+    },
+    "CCI": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Crown Castle"
+    },
+    "CSX": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "CSX Corporation"
+    },
+    "CMI": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Cummins"
+    },
+    "CVS": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "CVS Health"
+    },
+    "DHR": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Danaher Corporation"
+    },
+    "DRI": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Darden Restaurants"
+    },
+    "DDOG": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Datadog"
+    },
+    "DVA": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "DaVita"
+    },
+    "DECK": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Deckers Brands"
+    },
+    "DE": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Deere &amp; Company"
+    },
+    "DELL": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Dell Technologies"
+    },
+    "DAL": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Delta Air Lines"
+    },
+    "DVN": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Devon Energy"
+    },
+    "DXCM": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Dexcom"
+    },
+    "FANG": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Diamondback Energy"
+    },
+    "DLR": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Digital Realty"
+    },
+    "DG": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Dollar General"
+    },
+    "DLTR": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Dollar Tree"
+    },
+    "D": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Dominion Energy"
+    },
+    "DPZ": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Domino's"
+    },
+    "DASH": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "DoorDash"
+    },
+    "DOV": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Dover Corporation"
+    },
+    "DOW": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Dow Inc."
+    },
+    "DHI": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "D. R. Horton"
+    },
+    "DTE": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "DTE Energy"
+    },
+    "DUK": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Duke Energy"
+    },
+    "DD": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "DuPont"
+    },
+    "ETN": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Eaton Corporation"
+    },
+    "EBAY": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "eBay Inc."
+    },
+    "ECHO": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "EchoStar"
+    },
+    "ECL": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Ecolab"
+    },
+    "EIX": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Edison International"
+    },
+    "EW": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Edwards Lifesciences"
+    },
+    "ELV": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Elevance Health"
+    },
+    "EME": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Emcor"
+    },
+    "EMR": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Emerson Electric"
+    },
+    "ETR": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Entergy"
+    },
+    "EOG": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "EOG Resources"
+    },
+    "EQT": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "EQT Corporation"
+    },
+    "EFX": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Equifax"
+    },
+    "EQIX": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Equinix"
+    },
+    "ERIE": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Erie Indemnity"
+    },
+    "ESS": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Essex Property Trust"
+    },
+    "EL": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Estée Lauder Companies (The)"
+    },
+    "EG": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Everest Group"
+    },
+    "EVRG": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Evergy"
+    },
+    "P": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Everpure"
+    },
+    "ES": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Eversource Energy"
+    },
+    "EXC": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Exelon"
+    },
+    "EXE": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Expand Energy"
+    },
+    "EXPE": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Expedia Group"
+    },
+    "EXPD": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Expeditors International"
+    },
+    "EXR": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Extra Space Storage"
+    },
+    "XOM": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "ExxonMobil"
+    },
+    "FFIV": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "F5, Inc."
+    },
+    "FDS": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "FactSet"
+    },
+    "FICO": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Fair Isaac"
+    },
+    "FAST": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Fastenal"
+    },
+    "FRT": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Federal Realty Investment Trust"
+    },
+    "FDX": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "FedEx"
+    },
+    "FDXF": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "FedEx Freight"
+    },
+    "FERG": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Ferguson Enterprises"
+    },
+    "FIS": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Fidelity National Information Services"
+    },
+    "FITB": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Fifth Third Bancorp"
+    },
+    "FSLR": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "First Solar"
+    },
+    "FE": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "FirstEnergy"
+    },
+    "FISV": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Fiserv"
+    },
+    "FLEX": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Flex Ltd."
+    },
+    "F": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Ford Motor Company"
+    },
+    "FTNT": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Fortinet"
+    },
+    "FTV": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Fortive"
+    },
+    "FOXA": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Fox Corporation (Class A)"
+    },
+    "FOX": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Fox Corporation (Class B)"
+    },
+    "BEN": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Franklin Resources"
+    },
+    "FCX": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Freeport-McMoRan"
+    },
+    "GRMN": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Garmin"
+    },
+    "IT": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Gartner"
+    },
+    "GE": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "GE Aerospace"
+    },
+    "GEHC": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "GE HealthCare"
+    },
+    "GEV": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "GE Vernova"
+    },
+    "GEN": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Gen Digital"
+    },
+    "GNRC": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Generac"
+    },
+    "GD": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "General Dynamics"
+    },
+    "GIS": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "General Mills"
+    },
+    "GM": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "General Motors"
+    },
+    "GPC": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Genuine Parts Company"
+    },
+    "GILD": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Gilead Sciences"
+    },
+    "GPN": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Global Payments"
+    },
+    "GL": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Globe Life"
+    },
+    "GDDY": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "GoDaddy"
+    },
+    "GS": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Goldman Sachs"
+    },
+    "HAL": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Halliburton"
+    },
+    "HIG": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Hartford (The)"
+    },
+    "HAS": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Hasbro"
+    },
+    "HCA": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "HCA Healthcare"
+    },
+    "DOC": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Healthpeak Properties"
+    },
+    "HSIC": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Henry Schein"
+    },
+    "HSY": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Hershey Company (The)"
+    },
+    "HPE": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Hewlett Packard Enterprise"
+    },
+    "HLT": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Hilton Worldwide"
+    },
+    "HD": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Home Depot (The)"
+    },
+    "HONA": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Honeywell Aerospace"
+    },
+    "HON": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Honeywell Technologies"
+    },
+    "HRL": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Hormel Foods"
+    },
+    "HST": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Host Hotels &amp; Resorts"
+    },
+    "HWM": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Howmet Aerospace"
+    },
+    "HPQ": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "HP Inc."
+    },
+    "HUBB": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Hubbell Incorporated"
+    },
+    "HUM": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Humana"
+    },
+    "HBAN": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Huntington Bancshares"
+    },
+    "HII": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Huntington Ingalls Industries"
+    },
+    "IBM": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "IBM"
+    },
+    "IEX": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "IDEX Corporation"
+    },
+    "IDXX": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Idexx Laboratories"
+    },
+    "ITW": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Illinois Tool Works"
+    },
+    "ILMN": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Illumina, Inc."
+    },
+    "INCY": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Incyte"
+    },
+    "IR": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Ingersoll Rand"
+    },
+    "PODD": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Insulet Corporation"
+    },
+    "INTC": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Intel"
+    },
+    "IBKR": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Interactive Brokers"
+    },
+    "ICE": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Intercontinental Exchange"
+    },
+    "IFF": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "International Flavors &amp; Fragrances"
+    },
+    "IP": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "International Paper"
+    },
+    "INTU": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Intuit"
+    },
+    "ISRG": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Intuitive Surgical"
+    },
+    "IVZ": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Invesco"
+    },
+    "INVH": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Invitation Homes"
+    },
+    "IQV": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "IQVIA"
+    },
+    "IRM": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Iron Mountain"
+    },
+    "JBHT": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "J.B. Hunt"
+    },
+    "JBL": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Jabil"
+    },
+    "JKHY": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Jack Henry &amp; Associates"
+    },
+    "J": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Jacobs Solutions"
+    },
+    "JNJ": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Johnson &amp; Johnson"
+    },
+    "JCI": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Johnson Controls"
+    },
+    "JPM": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "JPMorgan Chase"
+    },
+    "KVUE": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Kenvue"
+    },
+    "KDP": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Keurig Dr Pepper"
+    },
+    "KEY": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "KeyCorp"
+    },
+    "KEYS": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Keysight Technologies"
+    },
+    "KMB": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Kimberly-Clark"
+    },
+    "KIM": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Kimco Realty"
+    },
+    "KMI": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Kinder Morgan"
+    },
+    "KKR": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "KKR &amp; Co."
+    },
+    "KLAC": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "KLA Corporation"
+    },
+    "KHC": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Kraft Heinz"
+    },
+    "KR": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Kroger"
+    },
+    "LHX": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "L3Harris"
+    },
+    "LH": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Labcorp"
+    },
+    "LRCX": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Lam Research"
+    },
+    "LVS": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Las Vegas Sands"
+    },
+    "LDOS": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Leidos"
+    },
+    "LEN": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Lennar"
+    },
+    "LII": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Lennox International"
+    },
+    "LLY": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Lilly (Eli)"
+    },
+    "LIN": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Linde plc"
+    },
+    "LYV": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Live Nation Entertainment"
+    },
+    "LMT": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Lockheed Martin"
+    },
+    "L": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Loews Corporation"
+    },
+    "LOW": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Lowe's"
+    },
+    "LULU": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Lululemon Athletica"
+    },
+    "LITE": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Lumentum"
+    },
+    "LYB": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "LyondellBasell"
+    },
+    "MTB": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "M&amp;T Bank"
+    },
+    "MPC": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Marathon Petroleum"
+    },
+    "MAR": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Marriott International"
+    },
+    "MRSH": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Marsh McLennan"
+    },
+    "MLM": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Martin Marietta Materials"
+    },
+    "MRVL": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Marvell Technology"
+    },
+    "MAS": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Masco"
+    },
+    "MA": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Mastercard"
+    },
+    "MKC": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "McCormick &amp; Company"
+    },
+    "MCD": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "McDonald's"
+    },
+    "MCK": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "McKesson"
+    },
+    "MDT": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Medtronic"
+    },
+    "MRK": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Merck &amp; Co."
+    },
+    "META": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Meta Platforms"
+    },
+    "MET": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "MetLife"
+    },
+    "MTD": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Mettler Toledo"
+    },
+    "MGM": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "MGM Resorts"
+    },
+    "MCHP": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Microchip Technology"
+    },
+    "MU": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Micron Technology"
+    },
+    "MSFT": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Microsoft"
+    },
+    "MAA": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Mid-America Apartment Communities"
+    },
+    "MRNA": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Moderna"
+    },
+    "MDLZ": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Mondelez International"
+    },
+    "MPWR": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Monolithic Power Systems"
+    },
+    "MNST": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Monster Beverage"
+    },
+    "MCO": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Moody's Corporation"
+    },
+    "MS": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Morgan Stanley"
+    },
+    "MOS": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Mosaic Company (The)"
+    },
+    "MSI": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Motorola Solutions"
+    },
+    "MSCI": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "MSCI"
+    },
+    "NDAQ": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Nasdaq, Inc."
+    },
+    "NTAP": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "NetApp"
+    },
+    "NFLX": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Netflix"
+    },
+    "NEM": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Newmont"
+    },
+    "NWSA": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "News Corp (Class A)"
+    },
+    "NWS": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "News Corp (Class B)"
+    },
+    "NEE": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "NextEra Energy"
+    },
+    "NKE": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Nike, Inc."
+    },
+    "NI": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "NiSource"
+    },
+    "NDSN": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Nordson Corporation"
+    },
+    "NSC": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Norfolk Southern"
+    },
+    "NTRS": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Northern Trust"
+    },
+    "NOC": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Northrop Grumman"
+    },
+    "NCLH": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Norwegian Cruise Line Holdings"
+    },
+    "NRG": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "NRG Energy"
+    },
+    "NUE": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Nucor"
+    },
+    "NVDA": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Nvidia"
+    },
+    "NVR": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "NVR, Inc."
+    },
+    "NXPI": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "NXP Semiconductors"
+    },
+    "ORLY": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "O'Reilly Automotive"
+    },
+    "OXY": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Occidental Petroleum"
+    },
+    "ODFL": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Old Dominion"
+    },
+    "OMC": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Omnicom Group"
+    },
+    "ON": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "ON Semiconductor"
+    },
+    "OKE": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Oneok"
+    },
+    "ORCL": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Oracle Corporation"
+    },
+    "OTIS": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Otis Worldwide"
+    },
+    "PCAR": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Paccar"
+    },
+    "PKG": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Packaging Corporation of America"
+    },
+    "PLTR": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Palantir Technologies"
+    },
+    "PANW": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Palo Alto Networks"
+    },
+    "PH": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Parker Hannifin"
+    },
+    "PAYX": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Paychex"
+    },
+    "PYPL": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "PayPal"
+    },
+    "PNR": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Pentair"
+    },
+    "PEP": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "PepsiCo"
+    },
+    "PFE": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Pfizer"
+    },
+    "PCG": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "PG&amp;E Corporation"
+    },
+    "PM": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Philip Morris International"
+    },
+    "PSX": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Phillips 66"
+    },
+    "PNW": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Pinnacle West Capital"
+    },
+    "PNC": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "PNC Financial Services"
+    },
+    "PPG": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "PPG Industries"
+    },
+    "PPL": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "PPL Corporation"
+    },
+    "PFG": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Principal Financial Group"
+    },
+    "PG": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Procter &amp; Gamble"
+    },
+    "PGR": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Progressive Corporation"
+    },
+    "PLD": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Prologis"
+    },
+    "PRU": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Prudential Financial"
+    },
+    "PEG": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Public Service Enterprise Group"
+    },
+    "PTC": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "PTC Inc."
+    },
+    "PSA": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Public Storage"
+    },
+    "PHM": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "PulteGroup"
+    },
+    "PWR": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Quanta Services"
+    },
+    "QCOM": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Qualcomm"
+    },
+    "DGX": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Quest Diagnostics"
+    },
+    "Q": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Qnity Electronics"
+    },
+    "RL": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Ralph Lauren Corporation"
+    },
+    "RJF": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Raymond James Financial"
+    },
+    "RDDT": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Reddit"
+    },
+    "RTX": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "RTX Corporation"
+    },
+    "O": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Realty Income"
+    },
+    "REG": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Regency Centers"
+    },
+    "REGN": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Regeneron Pharmaceuticals"
+    },
+    "RF": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Regions Financial Corporation"
+    },
+    "RSG": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Republic Services"
+    },
+    "RMD": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "ResMed"
+    },
+    "RVTY": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Revvity"
+    },
+    "HOOD": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Robinhood Markets"
+    },
+    "ROK": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Rockwell Automation"
+    },
+    "ROL": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Rollins, Inc."
+    },
+    "ROP": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Roper Technologies"
+    },
+    "ROST": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Ross Stores"
+    },
+    "RCL": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Royal Caribbean Group"
+    },
+    "SPGI": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "S&amp;P Global"
+    },
+    "CRM": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Salesforce"
+    },
+    "SNDK": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Sandisk"
+    },
+    "SBAC": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "SBA Communications"
+    },
+    "SLB": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Schlumberger"
+    },
+    "STX": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Seagate Technology"
+    },
+    "SRE": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Sempra"
+    },
+    "NOW": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "ServiceNow"
+    },
+    "SHW": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Sherwin-Williams"
+    },
+    "SPG": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Simon Property Group"
+    },
+    "SKYD": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Skydance Corporation"
+    },
+    "SWKS": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Skyworks Solutions"
+    },
+    "SJM": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "J.M. Smucker Company (The)"
+    },
+    "SW": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Smurfit Westrock"
+    },
+    "SNA": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Snap-on"
+    },
+    "SOLV": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Solventum"
+    },
+    "SO": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Southern Company"
+    },
+    "LUV": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Southwest Airlines"
+    },
+    "SWK": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Stanley Black &amp; Decker"
+    },
+    "SBUX": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Starbucks"
+    },
+    "STT": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "State Street Corporation"
+    },
+    "STLD": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Steel Dynamics"
+    },
+    "STE": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Steris"
+    },
+    "SYK": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Stryker Corporation"
+    },
+    "SMCI": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Supermicro"
+    },
+    "SYF": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Synchrony Financial"
+    },
+    "SNPS": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Synopsys"
+    },
+    "SYY": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Sysco"
+    },
+    "TMUS": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "T-Mobile US"
+    },
+    "TROW": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "T. Rowe Price"
+    },
+    "TTWO": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Take-Two Interactive"
+    },
+    "TPR": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Tapestry, Inc."
+    },
+    "TRGP": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Targa Resources"
+    },
+    "TGT": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Target Corporation"
+    },
+    "TEL": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "TE Connectivity"
+    },
+    "TDY": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Teledyne Technologies"
+    },
+    "TER": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Teradyne"
+    },
+    "TSLA": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Tesla, Inc."
+    },
+    "TXN": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Texas Instruments"
+    },
+    "TPL": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Texas Pacific Land Corporation"
+    },
+    "TXT": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Textron"
+    },
+    "TMO": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Thermo Fisher Scientific"
+    },
+    "TJX": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "TJX Companies"
+    },
+    "TKO": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "TKO Group Holdings"
+    },
+    "TSCO": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Tractor Supply"
+    },
+    "TT": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Trane Technologies"
+    },
+    "TDG": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "TransDigm Group"
+    },
+    "TRV": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Travelers Companies (The)"
+    },
+    "TRMB": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Trimble Inc."
+    },
+    "TFC": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Truist Financial"
+    },
+    "TWLO": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Twilio"
+    },
+    "TYL": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Tyler Technologies"
+    },
+    "TSN": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Tyson Foods"
+    },
+    "USB": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "U.S. Bancorp"
+    },
+    "UBER": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Uber"
+    },
+    "UDR": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "UDR, Inc."
+    },
+    "ULTA": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Ulta Beauty"
+    },
+    "UNP": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Union Pacific Corporation"
+    },
+    "UAL": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "United Airlines Holdings"
+    },
+    "UPS": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "United Parcel Service"
+    },
+    "URI": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "United Rentals"
+    },
+    "UNH": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "UnitedHealth Group"
+    },
+    "UHS": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Universal Health Services"
+    },
+    "VLO": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Valero Energy"
+    },
+    "VEEV": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Veeva Systems"
+    },
+    "VTR": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Ventas"
+    },
+    "VLTO": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Veralto"
+    },
+    "VRSN": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Verisign"
+    },
+    "VRSK": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Verisk Analytics"
+    },
+    "VZ": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Verizon"
+    },
+    "VRTX": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Vertex Pharmaceuticals"
+    },
+    "VRT": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Vertiv"
+    },
+    "VTRS": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Viatris"
+    },
+    "VICI": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Vici Properties"
+    },
+    "V": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Visa Inc."
+    },
+    "VST": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Vistra Corp."
+    },
+    "VMRK": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Vivmark Residential"
+    },
+    "VMC": {
+      "sector": "Materials",
+      "sector_zh": "材料",
+      "name": "Vulcan Materials Company"
+    },
+    "VYLR": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Vylor"
+    },
+    "WRB": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "W. R. Berkley Corporation"
+    },
+    "GWW": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "W. W. Grainger"
+    },
+    "WAB": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Wabtec"
+    },
+    "WMT": {
+      "sector": "Consumer Staples",
+      "sector_zh": "必需消費",
+      "name": "Walmart"
+    },
+    "DIS": {
+      "sector": "Communication Services",
+      "sector_zh": "通訊服務",
+      "name": "Walt Disney Company (The)"
+    },
+    "WM": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Waste Management"
+    },
+    "WAT": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Waters Corporation"
+    },
+    "WEC": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "WEC Energy Group"
+    },
+    "WFC": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Wells Fargo"
+    },
+    "WELL": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Welltower"
+    },
+    "WST": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "West Pharmaceutical Services"
+    },
+    "WDC": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Western Digital"
+    },
+    "WY": {
+      "sector": "Real Estate",
+      "sector_zh": "房地產",
+      "name": "Weyerhaeuser"
+    },
+    "WSM": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Williams-Sonoma, Inc."
+    },
+    "WMB": {
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "name": "Williams Companies"
+    },
+    "WTW": {
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "name": "Willis Towers Watson"
+    },
+    "WDAY": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Workday, Inc."
+    },
+    "WYNN": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Wynn Resorts"
+    },
+    "XEL": {
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "name": "Xcel Energy"
+    },
+    "XYL": {
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "name": "Xylem Inc."
+    },
+    "YUM": {
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需消費",
+      "name": "Yum! Brands"
+    },
+    "ZBRA": {
+      "sector": "Information Technology",
+      "sector_zh": "科技",
+      "name": "Zebra Technologies"
+    },
+    "ZBH": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Zimmer Biomet"
+    },
+    "ZTS": {
+      "sector": "Health Care",
+      "sector_zh": "醫療保健",
+      "name": "Zoetis"
+    }
+  }
+}
