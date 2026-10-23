@@ -3,9 +3,9 @@ name: Hourly US sector-flow refresh
 on:
   workflow_dispatch:
   schedule:
-    # Cover 09:00–16:00 America/New_York in both EST (UTC-5) and EDT (UTC-4):
-    # EST 14–21 UTC, EDT 13–20 UTC → 13–21 UTC weekdays. Script skips if empty/holiday.
-    - cron: '0 13-21 * * 1-5'
+    # First publish ~10:00 ET (EDT) / ~09:00 ET (EST): skip the thin 09:30 ET bar.
+    # EST 14–21 UTC, EDT 14–20 UTC → 14–21 UTC weekdays. Thin/holiday skipped by publish_static.
+    - cron: '0 14-21 * * 1-5'
 
 permissions:
   contents: write

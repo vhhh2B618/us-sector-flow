@@ -57,8 +57,17 @@ def chaikin_flow(h, l, c, v) -> float:
     return float(mult * v * avg)
 
 
+MIN_USABLE_BARS = 12  # ~1h of 5m RTH; below this prefer prior usable day
+
+
 def pick_last_rth_session(index: pd.DatetimeIndex) -> tuple[pd.Timestamp, pd.DatetimeIndex]:
-    """Return session date (ET date) and boolean mask for last complete/in-progress RTH."""
+    """Prefer newest RTH day with >= MIN_USABLE_BARS; else last older usable day.
+
+    Early-session Yahoo pulls often return only 1–few bars for today. If an older
+    day in the download has >= MIN_USABLE_BARS, use that so we do not publish a
+    thin wipe of a full prior-day chart. Fall back to the thin newest day only
+    when no older usable day exists.
+    """
     if index.tz is None:
         idx = index.tz_localize("UTC").tz_convert(ET)
     else:
@@ -67,14 +76,29 @@ def pick_last_rth_session(index: pd.DatetimeIndex) -> tuple[pd.Timestamp, pd.Dat
     rth = idx[(idx.time >= RTH_START) & (idx.time <= RTH_END)]
     if len(rth) == 0:
         raise RuntimeError("No RTH bars in downloaded data")
-    # Prefer last calendar day that has bars covering at least to 10:00 (session started),
-    # or full session if market closed.
     days = sorted(set(rth.normalize()))
-    # Use the most recent day with any RTH bars
-    session_day = days[-1]
-    mask = rth.normalize() == session_day
-    session_idx = rth[mask]
-    return session_day, session_idx
+
+    def bars_for(day: pd.Timestamp) -> pd.DatetimeIndex:
+        return rth[rth.normalize() == day]
+
+    newest = days[-1]
+    newest_bars = bars_for(newest)
+    if len(newest_bars) >= MIN_USABLE_BARS:
+        return newest, newest_bars
+    for day in reversed(days[:-1]):
+        day_bars = bars_for(day)
+        if len(day_bars) >= MIN_USABLE_BARS:
+            print(
+                f"Session picker: newest {newest.date()} has {len(newest_bars)} bars "
+                f"(<{MIN_USABLE_BARS}); using {day.date()} ({len(day_bars)} bars)",
+                flush=True,
+            )
+            return day, day_bars
+    print(
+        f"Session picker: only thin day available {newest.date()} bars={len(newest_bars)}",
+        flush=True,
+    )
+    return newest, newest_bars
 
 
 def download_batch(tickers: list[str], period: str = "5d", interval: str = "5m") -> pd.DataFrame:

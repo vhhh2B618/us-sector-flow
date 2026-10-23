@@ -2,7 +2,8 @@
 """Fetch US sector flow, rebuild root index.html, copy json/csv to Pages root.
 
 Exit 0 on success.
-Exit 78 on skip (holiday / empty / no usable RTH bars) so Actions succeeds without commit.
+Exit 78 on skip (holiday / empty / thin early session while a good snapshot exists)
+so Actions succeeds without commit.
 """
 from __future__ import annotations
 
@@ -15,6 +16,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 PAGES = ROOT.parent
 SKIP = 78
+# Mirror fetch_flow.MIN_USABLE_BARS — do not overwrite a full prior-day Pages
+# snapshot with an early-session thin pull (< ~1h of 5m bars).
+MIN_USABLE_BARS = 12
 SKIP_MARKERS = (
     "No RTH bars",
     "No bars for session",
@@ -47,6 +51,22 @@ def main() -> int:
     if n_ts < 1:
         print("SKIP: empty session (n_timestamps=0)", flush=True)
         return SKIP
+
+    existing = PAGES / "sector_flow.json"
+    if n_ts < MIN_USABLE_BARS and existing.exists():
+        try:
+            old = json.loads(existing.read_text(encoding="utf-8"))
+            old_n = int(old.get("n_timestamps") or 0)
+            if old_n >= MIN_USABLE_BARS:
+                print(
+                    f"SKIP: new session has only {n_ts} bars (<{MIN_USABLE_BARS}); "
+                    f"keeping existing Pages snapshot "
+                    f"({old.get('session_date')} bars={old_n})",
+                    flush=True,
+                )
+                return SKIP
+        except Exception as e:
+            print(f"WARN: could not read existing Pages json ({e}); publishing thin", flush=True)
 
     r2 = subprocess.run(
         [sys.executable, str(ROOT / "rebuild_index.py")],
