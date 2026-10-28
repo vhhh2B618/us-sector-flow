@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generated_at_hkt": "2026-10-29 04:32:19 HKT",
+  "generated_at_hkt": "2026-10-29 05:29:51 HKT",
   "session_date": "2026-10-28",
   "session_label": "2026-10-28 (星期三)",
   "session_hours": "09:30–16:00 ET",
@@ -63,26 +63,36 @@
   "disclaimer_en": "Yahoo free data is delayed. Chaikin money flow is an estimate, not exchange tick order-flow. Research only — not financial advice.",
   "top_inflow": [
     {
+      "sector": "Information Technology",
+      "zh": "科技",
+      "cum_m": 30095.774
+    },
+    {
       "sector": "Consumer Discretionary",
       "zh": "非必需消費",
-      "cum_m": 12559.544
+      "cum_m": 19257.189
     },
     {
       "sector": "Communication Services",
       "zh": "通訊服務",
-      "cum_m": 10153.291
-    },
-    {
-      "sector": "Information Technology",
-      "zh": "科技",
-      "cum_m": 9579.234
+      "cum_m": 9381.297
     }
   ],
   "top_outflow": [
     {
       "sector": "Financials",
       "zh": "金融",
-      "cum_m": -1826.955
+      "cum_m": -1919.81
+    },
+    {
+      "sector": "Industrials",
+      "zh": "工業",
+      "cum_m": -455.752
+    },
+    {
+      "sector": "Utilities",
+      "zh": "公用事業",
+      "cum_m": -446.427
     }
   ],
   "series": [
@@ -92,58 +102,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 3515.627,
-          "bar_m": 3515.627
+          "cum_m": 3515.336,
+          "bar_m": 3515.336
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -279.821,
-          "bar_m": -279.821
+          "cum_m": -283.443,
+          "bar_m": -283.443
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 409.995,
-          "bar_m": 409.995
+          "cum_m": 404.407,
+          "bar_m": 404.407
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -749.589,
-          "bar_m": -749.589
+          "cum_m": -749.569,
+          "bar_m": -749.569
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 78.345,
-          "bar_m": 78.345
+          "cum_m": 77.242,
+          "bar_m": 77.242
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -1788.352,
-          "bar_m": -1788.352
+          "cum_m": -2053.031,
+          "bar_m": -2053.031
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -141.524,
-          "bar_m": -141.524
+          "cum_m": -141.517,
+          "bar_m": -141.517
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -162.486,
-          "bar_m": -162.486
+          "cum_m": -169.221,
+          "bar_m": -169.221
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -92.284,
-          "bar_m": -92.284
+          "cum_m": -91.158,
+          "bar_m": -91.158
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -24.022,
-          "bar_m": -24.022
+          "cum_m": -16.783,
+          "bar_m": -16.783
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": -1493.721,
-          "bar_m": -1493.721
+          "cum_m": -1493.629,
+          "bar_m": -1493.629
         }
       }
     },
@@ -153,58 +163,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 4755.421,
-          "bar_m": 1239.794
+          "cum_m": 6986.501,
+          "bar_m": 3471.165
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -508.828,
-          "bar_m": -229.007
+          "cum_m": -499.426,
+          "bar_m": -215.983
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 244.2,
-          "bar_m": -165.795
+          "cum_m": 230.544,
+          "bar_m": -173.863
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -1292.249,
-          "bar_m": -542.66
+          "cum_m": -1292.612,
+          "bar_m": -543.044
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": -7.305,
-          "bar_m": -85.651
+          "cum_m": -7.952,
+          "bar_m": -85.194
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -1798.497,
-          "bar_m": -10.144
+          "cum_m": -2137.698,
+          "bar_m": -84.667
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -82.811,
-          "bar_m": 58.713
+          "cum_m": -84.335,
+          "bar_m": 57.182
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -242.764,
-          "bar_m": -80.278
+          "cum_m": -249.479,
+          "bar_m": -80.258
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -131.223,
-          "bar_m": -38.939
+          "cum_m": -129.226,
+          "bar_m": -38.068
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -95.161,
-          "bar_m": -71.139
+          "cum_m": -87.943,
+          "bar_m": -71.16
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": -766.216,
-          "bar_m": 727.505
+          "cum_m": -1276.069,
+          "bar_m": 217.56
         }
       }
     },
@@ -214,58 +224,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 5425.22,
-          "bar_m": 669.799
+          "cum_m": 8094.371,
+          "bar_m": 1107.87
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -666.599,
-          "bar_m": -157.772
+          "cum_m": -445.85,
+          "bar_m": 53.576
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 557.771,
-          "bar_m": 313.571
+          "cum_m": 495.559,
+          "bar_m": 265.015
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -1909.339,
-          "bar_m": -617.09
+          "cum_m": -1898.281,
+          "bar_m": -605.668
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 76.138,
-          "bar_m": 83.443
+          "cum_m": 57.588,
+          "bar_m": 65.54
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -1594.015,
-          "bar_m": 204.481
+          "cum_m": -1968.032,
+          "bar_m": 169.666
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -136.448,
-          "bar_m": -53.637
+          "cum_m": -137.908,
+          "bar_m": -53.573
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -204.017,
-          "bar_m": 38.747
+          "cum_m": -211.138,
+          "bar_m": 38.341
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -112.777,
-          "bar_m": 18.446
+          "cum_m": -132.133,
+          "bar_m": -2.907
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -102.883,
-          "bar_m": -7.722
+          "cum_m": -98.752,
+          "bar_m": -10.809
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": -1336.913,
-          "bar_m": -570.697
+          "cum_m": -3140.304,
+          "bar_m": -1864.235
         }
       }
     },
@@ -275,58 +285,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 1364.202,
-          "bar_m": -4061.018
+          "cum_m": 5840.624,
+          "bar_m": -2253.747
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -563.122,
-          "bar_m": 103.477
+          "cum_m": -342.315,
+          "bar_m": 103.535
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1448.931,
-          "bar_m": 891.159
+          "cum_m": 1386.618,
+          "bar_m": 891.059
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -1676.8,
-          "bar_m": 232.539
+          "cum_m": -1665.264,
+          "bar_m": 233.016
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 155.533,
-          "bar_m": 79.395
+          "cum_m": 142.562,
+          "bar_m": 84.974
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -1851.329,
-          "bar_m": -257.314
+          "cum_m": -2225.105,
+          "bar_m": -257.073
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -153.303,
-          "bar_m": -16.855
+          "cum_m": -154.764,
+          "bar_m": -16.856
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -228.155,
+          "cum_m": -235.276,
           "bar_m": -24.138
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -68.986,
-          "bar_m": 43.792
+          "cum_m": -87.472,
+          "bar_m": 44.662
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -82.098,
-          "bar_m": 20.785
+          "cum_m": -77.752,
+          "bar_m": 21.0
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": -1715.965,
-          "bar_m": -379.052
+          "cum_m": -3157.883,
+          "bar_m": -17.579
         }
       }
     },
@@ -336,58 +346,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 8818.876,
-          "bar_m": 7454.673
+          "cum_m": 8131.59,
+          "bar_m": 2290.967
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -554.568,
-          "bar_m": 8.554
+          "cum_m": -332.963,
+          "bar_m": 9.353
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1477.001,
-          "bar_m": 28.071
+          "cum_m": 1403.143,
+          "bar_m": 16.525
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -1482.383,
-          "bar_m": 194.417
+          "cum_m": -1470.884,
+          "bar_m": 194.381
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 158.304,
-          "bar_m": 2.772
+          "cum_m": 145.367,
+          "bar_m": 2.805
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -1478.97,
-          "bar_m": 372.359
+          "cum_m": -1924.465,
+          "bar_m": 300.64
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -218.315,
-          "bar_m": -65.012
+          "cum_m": -219.749,
+          "bar_m": -64.986
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -129.867,
-          "bar_m": 98.288
+          "cum_m": -154.08,
+          "bar_m": 81.196
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -69.694,
-          "bar_m": -0.709
+          "cum_m": -77.619,
+          "bar_m": 9.852
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -17.345,
-          "bar_m": 64.752
+          "cum_m": -12.861,
+          "bar_m": 64.891
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": -2190.045,
-          "bar_m": -474.08
+          "cum_m": -3631.94,
+          "bar_m": -474.057
         }
       }
     },
@@ -397,58 +407,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 10017.463,
-          "bar_m": 1198.588
+          "cum_m": 9330.367,
+          "bar_m": 1198.776
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -714.734,
-          "bar_m": -160.166
+          "cum_m": -979.864,
+          "bar_m": -646.901
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1296.806,
-          "bar_m": -180.195
+          "cum_m": 1222.982,
+          "bar_m": -180.161
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -1585.366,
-          "bar_m": -102.983
+          "cum_m": -1592.422,
+          "bar_m": -121.538
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 127.407,
-          "bar_m": -30.897
+          "cum_m": 114.463,
+          "bar_m": -30.905
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -1244.351,
-          "bar_m": 234.619
+          "cum_m": -1738.874,
+          "bar_m": 185.591
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -227.554,
-          "bar_m": -9.239
+          "cum_m": -228.952,
+          "bar_m": -9.202
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -77.749,
-          "bar_m": 52.118
+          "cum_m": -108.219,
+          "bar_m": 45.861
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -81.08,
-          "bar_m": -11.386
+          "cum_m": -58.592,
+          "bar_m": 19.027
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -20.849,
-          "bar_m": -3.504
+          "cum_m": -16.368,
+          "bar_m": -3.507
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": -1783.135,
-          "bar_m": 406.91
+          "cum_m": -3234.337,
+          "bar_m": 397.602
         }
       }
     },
@@ -458,58 +468,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 12110.973,
-          "bar_m": 2093.509
+          "cum_m": 11373.581,
+          "bar_m": 2043.214
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -791.76,
-          "bar_m": -77.026
+          "cum_m": -1056.678,
+          "bar_m": -76.814
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1398.544,
-          "bar_m": 101.738
+          "cum_m": 1324.737,
+          "bar_m": 101.755
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -902.317,
-          "bar_m": 683.05
+          "cum_m": -1920.278,
+          "bar_m": -327.856
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 49.657,
-          "bar_m": -77.75
+          "cum_m": 21.392,
+          "bar_m": -93.07
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 376.973,
-          "bar_m": 1621.324
+          "cum_m": -148.249,
+          "bar_m": 1590.626
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -243.952,
-          "bar_m": -16.399
+          "cum_m": -245.374,
+          "bar_m": -16.423
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -65.092,
-          "bar_m": 12.657
+          "cum_m": -95.587,
+          "bar_m": 12.632
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -29.88,
-          "bar_m": 51.201
+          "cum_m": -53.09,
+          "bar_m": 5.503
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -8.706,
-          "bar_m": 12.143
+          "cum_m": -4.223,
+          "bar_m": 12.145
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 2230.831,
-          "bar_m": 4013.967
+          "cum_m": -2625.114,
+          "bar_m": 609.224
         }
       }
     },
@@ -519,58 +529,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 10855.876,
-          "bar_m": -1255.097
+          "cum_m": 10378.703,
+          "bar_m": -994.878
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -635.625,
-          "bar_m": 156.135
+          "cum_m": -1841.542,
+          "bar_m": -784.863
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1596.147,
-          "bar_m": 197.603
+          "cum_m": 1523.22,
+          "bar_m": 198.483
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -1155.612,
-          "bar_m": -253.296
+          "cum_m": -2173.546,
+          "bar_m": -253.268
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 137.183,
-          "bar_m": 87.526
+          "cum_m": 109.725,
+          "bar_m": 88.332
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 298.841,
-          "bar_m": -78.131
+          "cum_m": -251.997,
+          "bar_m": -103.749
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -245.934,
-          "bar_m": -1.982
+          "cum_m": -220.591,
+          "bar_m": 24.783
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -14.715,
-          "bar_m": 50.377
+          "cum_m": -45.388,
+          "bar_m": 50.198
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -20.669,
-          "bar_m": 9.211
+          "cum_m": -60.025,
+          "bar_m": -6.935
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -40.143,
-          "bar_m": -31.437
+          "cum_m": -35.735,
+          "bar_m": -31.512
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 2077.784,
-          "bar_m": -153.047
+          "cum_m": -2778.108,
+          "bar_m": -152.994
         }
       }
     },
@@ -580,58 +590,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 10732.641,
-          "bar_m": -123.235
+          "cum_m": 10261.644,
+          "bar_m": -117.059
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -508.003,
-          "bar_m": 127.622
+          "cum_m": -1713.706,
+          "bar_m": 127.836
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1608.253,
-          "bar_m": 12.105
+          "cum_m": 1535.257,
+          "bar_m": 12.037
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -628.81,
-          "bar_m": 526.802
+          "cum_m": -1605.263,
+          "bar_m": 568.283
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 151.597,
-          "bar_m": 14.414
+          "cum_m": 124.162,
+          "bar_m": 14.437
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 448.779,
-          "bar_m": 149.937
+          "cum_m": -103.072,
+          "bar_m": 148.925
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -162.006,
-          "bar_m": 83.928
+          "cum_m": -136.634,
+          "bar_m": 83.958
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 0.276,
-          "bar_m": 14.99
+          "cum_m": -34.643,
+          "bar_m": 10.745
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": 6.986,
-          "bar_m": 27.655
+          "cum_m": -32.367,
+          "bar_m": 27.657
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -18.067,
-          "bar_m": 22.076
+          "cum_m": -13.664,
+          "bar_m": 22.071
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 2316.501,
-          "bar_m": 238.717
+          "cum_m": -2539.416,
+          "bar_m": 238.693
         }
       }
     },
@@ -641,58 +651,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 10903.068,
-          "bar_m": 170.428
+          "cum_m": 12044.646,
+          "bar_m": 1783.003
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -447.711,
-          "bar_m": 60.292
+          "cum_m": -1653.432,
+          "bar_m": 60.274
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1613.371,
-          "bar_m": 5.119
+          "cum_m": 1534.966,
+          "bar_m": -0.291
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -523.61,
-          "bar_m": 105.2
+          "cum_m": -1500.039,
+          "bar_m": 105.225
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 62.761,
-          "bar_m": -88.836
+          "cum_m": 123.035,
+          "bar_m": -1.127
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 752.147,
-          "bar_m": 303.368
+          "cum_m": 237.044,
+          "bar_m": 340.116
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -169.704,
-          "bar_m": -7.698
+          "cum_m": -144.345,
+          "bar_m": -7.711
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 37.996,
-          "bar_m": 37.72
+          "cum_m": 3.075,
+          "bar_m": 37.718
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": 12.396,
-          "bar_m": 5.41
+          "cum_m": -26.992,
+          "bar_m": 5.376
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -4.269,
-          "bar_m": 13.798
+          "cum_m": 0.119,
+          "bar_m": 13.784
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 2009.327,
-          "bar_m": -307.174
+          "cum_m": -4835.416,
+          "bar_m": -2296.0
         }
       }
     },
@@ -702,58 +712,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 11319.375,
-          "bar_m": 416.307
+          "cum_m": 12434.832,
+          "bar_m": 390.185
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -601.132,
-          "bar_m": -153.421
+          "cum_m": -1781.214,
+          "bar_m": -127.781
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1571.61,
-          "bar_m": -41.761
+          "cum_m": 1492.939,
+          "bar_m": -42.027
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -690.81,
-          "bar_m": -167.2
+          "cum_m": -1667.234,
+          "bar_m": -167.195
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 1.151,
-          "bar_m": -61.61
+          "cum_m": 61.422,
+          "bar_m": -61.613
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 667.342,
-          "bar_m": -84.805
+          "cum_m": 195.064,
+          "bar_m": -41.98
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -153.991,
-          "bar_m": 15.713
+          "cum_m": -63.399,
+          "bar_m": 80.946
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 43.076,
-          "bar_m": 5.08
+          "cum_m": 8.071,
+          "bar_m": 4.996
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -8.091,
-          "bar_m": -20.487
+          "cum_m": -47.412,
+          "bar_m": -20.42
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -2.402,
-          "bar_m": 1.867
+          "cum_m": -0.02,
+          "bar_m": -0.14
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 2011.502,
-          "bar_m": 2.175
+          "cum_m": -4833.247,
+          "bar_m": 2.169
         }
       }
     },
@@ -763,58 +773,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 12817.294,
-          "bar_m": 1497.919
+          "cum_m": 14147.645,
+          "bar_m": 1712.813
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -843.96,
-          "bar_m": -242.829
+          "cum_m": -2025.528,
+          "bar_m": -244.315
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1453.932,
-          "bar_m": -117.678
+          "cum_m": 1375.163,
+          "bar_m": -117.776
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -494.164,
-          "bar_m": 196.646
+          "cum_m": -1209.389,
+          "bar_m": 457.845
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 4.443,
-          "bar_m": 3.292
+          "cum_m": 60.206,
+          "bar_m": -1.216
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 792.767,
-          "bar_m": 125.426
+          "cum_m": 320.795,
+          "bar_m": 125.731
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -100.443,
+          "cum_m": -9.851,
           "bar_m": 53.548
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 25.531,
-          "bar_m": -17.545
+          "cum_m": -9.454,
+          "bar_m": -17.526
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -6.246,
-          "bar_m": 1.844
+          "cum_m": -24.57,
+          "bar_m": 22.842
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -152.628,
-          "bar_m": -150.226
+          "cum_m": -36.267,
+          "bar_m": -36.247
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 2033.035,
-          "bar_m": 21.533
+          "cum_m": -4726.807,
+          "bar_m": 106.44
         }
       }
     },
@@ -824,58 +834,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 11330.638,
-          "bar_m": -1486.656
+          "cum_m": 13578.049,
+          "bar_m": -569.596
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -783.038,
-          "bar_m": 60.922
+          "cum_m": -1994.117,
+          "bar_m": 31.411
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1791.454,
-          "bar_m": 337.522
+          "cum_m": 1543.469,
+          "bar_m": 168.305
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -718.671,
-          "bar_m": -224.507
+          "cum_m": -5688.943,
+          "bar_m": -4479.554
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 388.224,
-          "bar_m": 383.781
+          "cum_m": 100.03,
+          "bar_m": 39.824
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 859.201,
-          "bar_m": 66.434
+          "cum_m": 393.701,
+          "bar_m": 72.906
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -283.006,
-          "bar_m": -182.563
+          "cum_m": -87.804,
+          "bar_m": -77.953
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 38.913,
-          "bar_m": 13.382
+          "cum_m": 3.925,
+          "bar_m": 13.38
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -32.218,
-          "bar_m": -25.972
+          "cum_m": -10.636,
+          "bar_m": 13.935
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -152.27,
-          "bar_m": 0.358
+          "cum_m": -94.261,
+          "bar_m": -57.994
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 1870.558,
-          "bar_m": -162.477
+          "cum_m": -4889.243,
+          "bar_m": -162.436
         }
       }
     },
@@ -885,58 +895,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 9084.159,
-          "bar_m": -2246.479
+          "cum_m": 13052.095,
+          "bar_m": -525.953
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -955.274,
-          "bar_m": -172.236
+          "cum_m": -2243.83,
+          "bar_m": -249.713
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2143.295,
-          "bar_m": 351.841
+          "cum_m": 1780.485,
+          "bar_m": 237.016
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -687.886,
-          "bar_m": 30.785
+          "cum_m": -5729.255,
+          "bar_m": -40.312
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 416.099,
-          "bar_m": 27.875
+          "cum_m": 125.271,
+          "bar_m": 25.241
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 405.195,
-          "bar_m": -454.006
+          "cum_m": 95.27,
+          "bar_m": -298.431
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -238.778,
-          "bar_m": 44.228
+          "cum_m": -16.123,
+          "bar_m": 71.681
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 33.616,
-          "bar_m": -5.297
+          "cum_m": -2.246,
+          "bar_m": -6.171
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -24.753,
-          "bar_m": 7.466
+          "cum_m": -30.653,
+          "bar_m": -20.018
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -171.306,
-          "bar_m": -19.036
+          "cum_m": -113.294,
+          "bar_m": -19.033
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 1341.659,
-          "bar_m": -528.898
+          "cum_m": -5431.651,
+          "bar_m": -542.408
         }
       }
     },
@@ -946,58 +956,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 9113.714,
-          "bar_m": 29.555
+          "cum_m": 9457.817,
+          "bar_m": -3594.278
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -781.32,
-          "bar_m": 173.954
+          "cum_m": -2039.924,
+          "bar_m": 203.906
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2122.573,
-          "bar_m": -20.722
+          "cum_m": 1786.204,
+          "bar_m": 5.719
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -577.952,
-          "bar_m": 109.934
+          "cum_m": -5619.031,
+          "bar_m": 110.224
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 403.16,
-          "bar_m": -12.939
+          "cum_m": 98.07,
+          "bar_m": -27.202
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 480.044,
-          "bar_m": 74.848
+          "cum_m": 169.433,
+          "bar_m": 74.163
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -268.703,
-          "bar_m": -29.925
+          "cum_m": -50.32,
+          "bar_m": -34.198
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 10.142,
-          "bar_m": -23.474
+          "cum_m": -25.721,
+          "bar_m": -23.475
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -62.862,
-          "bar_m": -38.109
+          "cum_m": -56.896,
+          "bar_m": -26.242
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -198.421,
-          "bar_m": -27.115
+          "cum_m": -141.202,
+          "bar_m": -27.908
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 1432.461,
-          "bar_m": 90.801
+          "cum_m": -5340.861,
+          "bar_m": 90.79
         }
       }
     },
@@ -1007,58 +1017,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 8706.839,
-          "bar_m": -406.875
+          "cum_m": 9051.051,
+          "bar_m": -406.766
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1005.026,
-          "bar_m": -223.705
+          "cum_m": -2226.694,
+          "bar_m": -186.77
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2307.739,
-          "bar_m": 185.166
+          "cum_m": 1903.425,
+          "bar_m": 117.221
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -514.699,
-          "bar_m": 63.253
+          "cum_m": -5555.765,
+          "bar_m": 63.266
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 405.399,
-          "bar_m": 2.239
+          "cum_m": 112.789,
+          "bar_m": 14.719
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 269.533,
-          "bar_m": -210.511
+          "cum_m": -64.797,
+          "bar_m": -234.23
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -217.453,
-          "bar_m": 51.249
+          "cum_m": 0.772,
+          "bar_m": 51.093
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 18.755,
-          "bar_m": 8.613
+          "cum_m": -17.088,
+          "bar_m": 8.633
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -66.491,
-          "bar_m": -3.629
+          "cum_m": -60.544,
+          "bar_m": -3.648
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -230.9,
-          "bar_m": -32.479
+          "cum_m": -168.696,
+          "bar_m": -27.494
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 1117.495,
-          "bar_m": -314.966
+          "cum_m": -5655.826,
+          "bar_m": -314.965
         }
       }
     },
@@ -1068,58 +1078,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 8376.954,
-          "bar_m": -329.885
+          "cum_m": 5679.281,
+          "bar_m": -3371.77
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -838.672,
-          "bar_m": 166.354
+          "cum_m": -2059.454,
+          "bar_m": 167.241
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2451.158,
-          "bar_m": 143.419
+          "cum_m": 1913.626,
+          "bar_m": 10.202
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": -1289.131,
-          "bar_m": -774.432
+          "cum_m": -5503.463,
+          "bar_m": 52.303
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 378.426,
-          "bar_m": -26.973
+          "cum_m": 85.831,
+          "bar_m": -26.957
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 210.873,
-          "bar_m": -58.66
+          "cum_m": -43.674,
+          "bar_m": 21.123
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -180.886,
-          "bar_m": 36.567
+          "cum_m": 37.333,
+          "bar_m": 36.561
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -6.676,
-          "bar_m": -25.431
+          "cum_m": -42.522,
+          "bar_m": -25.434
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -30.622,
-          "bar_m": 35.869
+          "cum_m": -24.699,
+          "bar_m": 35.845
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -231.565,
-          "bar_m": -0.665
+          "cum_m": -170.11,
+          "bar_m": -1.413
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 1037.864,
-          "bar_m": -79.631
+          "cum_m": -5735.456,
+          "bar_m": -79.63
         }
       }
     },
@@ -1129,58 +1139,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 8769.165,
-          "bar_m": 392.212
+          "cum_m": 6075.081,
+          "bar_m": 395.8
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -808.235,
-          "bar_m": 30.437
+          "cum_m": -1857.175,
+          "bar_m": 202.279
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2406.563,
-          "bar_m": -44.595
+          "cum_m": 1869.063,
+          "bar_m": -44.563
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 1814.905,
-          "bar_m": 3104.037
+          "cum_m": -5501.755,
+          "bar_m": 1.708
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 398.993,
-          "bar_m": 20.567
+          "cum_m": 106.166,
+          "bar_m": 20.335
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 363.205,
-          "bar_m": 152.332
+          "cum_m": 109.123,
+          "bar_m": 152.797
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -253.37,
-          "bar_m": -72.483
+          "cum_m": -233.99,
+          "bar_m": -271.323
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -36.191,
-          "bar_m": -29.515
+          "cum_m": -33.296,
+          "bar_m": 9.226
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -22.953,
-          "bar_m": 7.668
+          "cum_m": -89.862,
+          "bar_m": -65.164
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -236.052,
-          "bar_m": -4.487
+          "cum_m": -160.506,
+          "bar_m": 9.604
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 1135.974,
-          "bar_m": 98.111
+          "cum_m": 850.836,
+          "bar_m": 6586.293
         }
       }
     },
@@ -1190,58 +1200,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 12017.786,
-          "bar_m": 3248.621
+          "cum_m": 11961.084,
+          "bar_m": 5886.003
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1012.591,
-          "bar_m": -204.356
+          "cum_m": -1938.628,
+          "bar_m": -81.454
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2425.261,
-          "bar_m": 18.699
+          "cum_m": 1780.095,
+          "bar_m": -88.968
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 1952.745,
-          "bar_m": 137.84
+          "cum_m": -5341.197,
+          "bar_m": 160.558
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 435.036,
-          "bar_m": 36.043
+          "cum_m": 150.214,
+          "bar_m": 44.048
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 316.109,
-          "bar_m": -47.096
+          "cum_m": 164.005,
+          "bar_m": 54.882
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -208.28,
-          "bar_m": 45.09
+          "cum_m": -188.895,
+          "bar_m": 45.095
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 44.846,
-          "bar_m": 81.037
+          "cum_m": 47.748,
+          "bar_m": 81.044
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -5.882,
-          "bar_m": 17.072
+          "cum_m": -73.103,
+          "bar_m": 16.759
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -233.399,
-          "bar_m": 2.653
+          "cum_m": -145.363,
+          "bar_m": 15.142
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 1309.353,
-          "bar_m": 173.379
+          "cum_m": 1010.489,
+          "bar_m": 159.653
         }
       }
     },
@@ -1251,58 +1261,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 10508.507,
-          "bar_m": -1509.279
+          "cum_m": 10383.895,
+          "bar_m": -1577.189
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1006.494,
-          "bar_m": 6.097
+          "cum_m": -1933.144,
+          "bar_m": 5.484
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2298.695,
-          "bar_m": -126.566
+          "cum_m": 1624.031,
+          "bar_m": -156.065
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 2051.121,
-          "bar_m": 98.375
+          "cum_m": -5257.991,
+          "bar_m": 83.205
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 394.038,
-          "bar_m": -40.998
+          "cum_m": 191.101,
+          "bar_m": 40.887
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 352.369,
-          "bar_m": 36.26
+          "cum_m": 211.704,
+          "bar_m": 47.698
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -203.509,
-          "bar_m": 4.771
+          "cum_m": -184.134,
+          "bar_m": 4.761
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 107.833,
-          "bar_m": 62.987
+          "cum_m": 69.099,
+          "bar_m": 21.351
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": 22.083,
-          "bar_m": 27.964
+          "cum_m": -45.137,
+          "bar_m": 27.966
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -162.334,
-          "bar_m": 71.065
+          "cum_m": -117.498,
+          "bar_m": 27.866
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 1087.76,
-          "bar_m": -221.593
+          "cum_m": 788.883,
+          "bar_m": -221.605
         }
       }
     },
@@ -1312,58 +1322,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 14598.223,
-          "bar_m": 4089.716
+          "cum_m": 15600.37,
+          "bar_m": 5216.475
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1018.082,
-          "bar_m": -11.588
+          "cum_m": -1895.521,
+          "bar_m": 37.623
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2183.834,
-          "bar_m": -114.862
+          "cum_m": 1509.149,
+          "bar_m": -114.881
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 2165.301,
-          "bar_m": 114.18
+          "cum_m": -5142.842,
+          "bar_m": 115.149
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 378.211,
-          "bar_m": -15.827
+          "cum_m": 60.651,
+          "bar_m": -130.45
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 734.232,
-          "bar_m": 381.863
+          "cum_m": 394.832,
+          "bar_m": 183.128
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -158.448,
-          "bar_m": 45.061
+          "cum_m": -138.958,
+          "bar_m": 45.176
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -5.223,
-          "bar_m": -113.056
+          "cum_m": 22.436,
+          "bar_m": -46.663
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": 12.967,
-          "bar_m": -9.116
+          "cum_m": -54.27,
+          "bar_m": -9.134
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -164.912,
-          "bar_m": -2.579
+          "cum_m": -120.103,
+          "bar_m": -2.605
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 3877.957,
-          "bar_m": 2790.198
+          "cum_m": 3579.091,
+          "bar_m": 2790.207
         }
       }
     },
@@ -1373,58 +1383,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 14366.868,
-          "bar_m": -231.355
+          "cum_m": 16383.286,
+          "bar_m": 782.916
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -850.353,
-          "bar_m": 167.729
+          "cum_m": -1650.981,
+          "bar_m": 244.54
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2362.807,
-          "bar_m": 178.973
+          "cum_m": 1715.766,
+          "bar_m": 206.616
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 1955.286,
-          "bar_m": -210.014
+          "cum_m": -5314.966,
+          "bar_m": -172.124
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 485.028,
-          "bar_m": 106.817
+          "cum_m": 84.297,
+          "bar_m": 23.646
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 852.384,
-          "bar_m": 118.152
+          "cum_m": 472.845,
+          "bar_m": 78.013
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -127.359,
-          "bar_m": 31.089
+          "cum_m": -107.878,
+          "bar_m": 31.08
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -55.689,
-          "bar_m": -50.466
+          "cum_m": -28.009,
+          "bar_m": -50.445
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": 27.899,
-          "bar_m": 14.932
+          "cum_m": -39.317,
+          "bar_m": 14.954
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -141.733,
-          "bar_m": 23.18
+          "cum_m": -96.927,
+          "bar_m": 23.175
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 3776.693,
-          "bar_m": -101.265
+          "cum_m": 3455.436,
+          "bar_m": -123.654
         }
       }
     },
@@ -1434,58 +1444,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 13844.969,
-          "bar_m": -521.899
+          "cum_m": 16888.148,
+          "bar_m": 504.861
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -914.361,
-          "bar_m": -64.008
+          "cum_m": -1937.22,
+          "bar_m": -286.239
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2324.478,
-          "bar_m": -38.329
+          "cum_m": 1766.07,
+          "bar_m": 50.304
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 1897.641,
-          "bar_m": -57.645
+          "cum_m": -5268.036,
+          "bar_m": 46.93
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 522.73,
-          "bar_m": 37.702
+          "cum_m": 214.404,
+          "bar_m": 130.107
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 1173.745,
-          "bar_m": 321.361
+          "cum_m": 493.429,
+          "bar_m": 20.585
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -98.007,
-          "bar_m": 29.352
+          "cum_m": -22.333,
+          "bar_m": 85.545
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -50.439,
-          "bar_m": 5.25
+          "cum_m": -22.768,
+          "bar_m": 5.241
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": 28.625,
-          "bar_m": 0.726
+          "cum_m": -38.596,
+          "bar_m": 0.721
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -127.868,
-          "bar_m": 13.865
+          "cum_m": -125.066,
+          "bar_m": -28.139
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 3521.284,
-          "bar_m": -255.409
+          "cum_m": 3199.913,
+          "bar_m": -255.524
         }
       }
     },
@@ -1495,58 +1505,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 7972.802,
-          "bar_m": -5872.167
+          "cum_m": 14067.966,
+          "bar_m": -2820.182
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -952.278,
-          "bar_m": -37.917
+          "cum_m": -1995.407,
+          "bar_m": -58.187
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2300.312,
-          "bar_m": -24.166
+          "cum_m": 1741.868,
+          "bar_m": -24.202
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 7001.855,
-          "bar_m": 5104.213
+          "cum_m": -151.305,
+          "bar_m": 5116.731
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 440.145,
-          "bar_m": -82.585
+          "cum_m": 131.813,
+          "bar_m": -82.592
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 925.689,
-          "bar_m": -248.056
+          "cum_m": -531.592,
+          "bar_m": -1025.021
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -20.728,
-          "bar_m": 77.279
+          "cum_m": 54.902,
+          "bar_m": 77.236
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -106.817,
-          "bar_m": -56.379
+          "cum_m": -79.149,
+          "bar_m": -56.381
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": 2.755,
-          "bar_m": -25.87
+          "cum_m": -136.5,
+          "bar_m": -97.904
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -149.811,
-          "bar_m": -21.943
+          "cum_m": -147.02,
+          "bar_m": -21.954
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 3523.195,
-          "bar_m": 1.911
+          "cum_m": 3113.423,
+          "bar_m": -86.49
         }
       }
     },
@@ -1556,58 +1566,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 8005.211,
-          "bar_m": 32.409
+          "cum_m": 13996.93,
+          "bar_m": -71.036
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -815.201,
-          "bar_m": 137.076
+          "cum_m": -1857.017,
+          "bar_m": 138.39
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2273.991,
-          "bar_m": -26.322
+          "cum_m": 1713.49,
+          "bar_m": -28.378
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 7063.509,
-          "bar_m": 61.655
+          "cum_m": -89.663,
+          "bar_m": 61.642
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 455.123,
-          "bar_m": 14.977
+          "cum_m": 146.745,
+          "bar_m": 14.932
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -577.579,
-          "bar_m": -1503.268
+          "cum_m": -496.979,
+          "bar_m": 34.613
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -49.566,
-          "bar_m": -28.838
+          "cum_m": 26.079,
+          "bar_m": -28.824
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -94.045,
-          "bar_m": 12.772
+          "cum_m": -81.38,
+          "bar_m": -2.232
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": 47.156,
-          "bar_m": 44.401
+          "cum_m": -92.095,
+          "bar_m": 44.405
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -118.155,
-          "bar_m": 31.657
+          "cum_m": -115.379,
+          "bar_m": 31.642
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 3795.187,
-          "bar_m": 271.992
+          "cum_m": 3520.866,
+          "bar_m": 407.443
         }
       }
     },
@@ -1617,58 +1627,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 11660.406,
-          "bar_m": 3655.195
+          "cum_m": 16386.504,
+          "bar_m": 2389.575
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -751.585,
-          "bar_m": 63.616
+          "cum_m": -1793.366,
+          "bar_m": 63.651
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2191.048,
-          "bar_m": -82.942
+          "cum_m": 1630.6,
+          "bar_m": -82.89
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 7058.263,
-          "bar_m": -5.246
+          "cum_m": -94.888,
+          "bar_m": -5.226
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 425.346,
-          "bar_m": -29.777
+          "cum_m": 108.652,
+          "bar_m": -38.093
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -392.899,
-          "bar_m": 184.68
+          "cum_m": -250.469,
+          "bar_m": 246.51
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -22.187,
-          "bar_m": 27.38
+          "cum_m": 53.449,
+          "bar_m": 27.37
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 5.723,
-          "bar_m": 99.768
+          "cum_m": -34.792,
+          "bar_m": 46.588
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": 112.529,
-          "bar_m": 65.373
+          "cum_m": -64.033,
+          "bar_m": 28.062
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -98.538,
-          "bar_m": 19.617
+          "cum_m": -96.554,
+          "bar_m": 18.825
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4001.738,
-          "bar_m": 206.551
+          "cum_m": 3727.415,
+          "bar_m": 206.549
         }
       }
     },
@@ -1678,58 +1688,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 11635.407,
-          "bar_m": -24.999
+          "cum_m": 16361.565,
+          "bar_m": -24.94
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -717.762,
-          "bar_m": 33.823
+          "cum_m": -1758.997,
+          "bar_m": 34.369
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2153.735,
-          "bar_m": -37.313
+          "cum_m": 1593.306,
+          "bar_m": -37.294
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 7064.81,
-          "bar_m": 6.547
+          "cum_m": -88.324,
+          "bar_m": 6.564
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 403.468,
-          "bar_m": -21.878
+          "cum_m": 86.777,
+          "bar_m": -21.875
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -52.158,
-          "bar_m": 340.741
+          "cum_m": -117.819,
+          "bar_m": 132.651
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 16.296,
-          "bar_m": 38.482
+          "cum_m": 70.083,
+          "bar_m": 16.634
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -80.17,
-          "bar_m": -85.892
+          "cum_m": -120.688,
+          "bar_m": -85.895
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": 90.729,
-          "bar_m": -21.8
+          "cum_m": -89.463,
+          "bar_m": -25.43
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -116.335,
-          "bar_m": -17.798
+          "cum_m": -114.541,
+          "bar_m": -17.987
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4869.611,
-          "bar_m": 867.873
+          "cum_m": 3721.925,
+          "bar_m": -5.49
         }
       }
     },
@@ -1739,58 +1749,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 3826.383,
-          "bar_m": -7809.024
+          "cum_m": 11456.852,
+          "bar_m": -4904.713
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2153.26,
-          "bar_m": -1435.497
+          "cum_m": -1791.142,
+          "bar_m": -32.145
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 2032.025,
-          "bar_m": -121.71
+          "cum_m": 1529.418,
+          "bar_m": -63.888
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6966.79,
-          "bar_m": -98.02
+          "cum_m": -214.653,
+          "bar_m": -126.329
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 400.93,
-          "bar_m": -2.538
+          "cum_m": 66.638,
+          "bar_m": -20.139
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -127.85,
-          "bar_m": -75.693
+          "cum_m": -193.576,
+          "bar_m": -75.757
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 50.022,
-          "bar_m": 33.726
+          "cum_m": 103.9,
+          "bar_m": 33.817
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -150.431,
-          "bar_m": -70.261
+          "cum_m": -242.242,
+          "bar_m": -121.555
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -3.128,
-          "bar_m": -93.857
+          "cum_m": -87.113,
+          "bar_m": 2.35
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -100.721,
-          "bar_m": 15.615
+          "cum_m": -98.93,
+          "bar_m": 15.611
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4726.876,
-          "bar_m": -142.736
+          "cum_m": 3579.187,
+          "bar_m": -142.739
         }
       }
     },
@@ -1800,58 +1810,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 3177.146,
-          "bar_m": -649.237
+          "cum_m": 10807.469,
+          "bar_m": -649.383
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2248.214,
-          "bar_m": -94.954
+          "cum_m": -1884.776,
+          "bar_m": -93.635
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1991.115,
-          "bar_m": -40.91
+          "cum_m": 1517.234,
+          "bar_m": -12.185
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 7003.547,
-          "bar_m": 36.756
+          "cum_m": 3883.365,
+          "bar_m": 4098.018
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 445.659,
-          "bar_m": 44.73
+          "cum_m": 60.964,
+          "bar_m": -5.674
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -311.389,
-          "bar_m": -183.539
+          "cum_m": -376.939,
+          "bar_m": -183.363
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 94.04,
-          "bar_m": 44.018
+          "cum_m": 75.466,
+          "bar_m": -28.434
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -42.077,
-          "bar_m": 108.354
+          "cum_m": -230.993,
+          "bar_m": 11.249
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -63.826,
-          "bar_m": -60.698
+          "cum_m": -227.226,
+          "bar_m": -140.113
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -157.054,
-          "bar_m": -56.333
+          "cum_m": -123.037,
+          "bar_m": -24.107
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4786.041,
-          "bar_m": 59.165
+          "cum_m": 3638.333,
+          "bar_m": 59.146
         }
       }
     },
@@ -1861,58 +1871,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 3247.362,
-          "bar_m": 70.216
+          "cum_m": 10859.477,
+          "bar_m": 52.008
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2169.493,
-          "bar_m": 78.721
+          "cum_m": -1830.568,
+          "bar_m": 54.208
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1572.273,
-          "bar_m": -418.842
+          "cum_m": 1476.027,
+          "bar_m": -41.206
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 7021.684,
-          "bar_m": 18.137
+          "cum_m": 3901.609,
+          "bar_m": 18.244
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 452.519,
-          "bar_m": 6.86
+          "cum_m": 64.172,
+          "bar_m": 3.208
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -14.541,
-          "bar_m": 296.848
+          "cum_m": -413.266,
+          "bar_m": -36.328
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 66.949,
-          "bar_m": -27.091
+          "cum_m": 48.354,
+          "bar_m": -27.111
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 34.26,
-          "bar_m": 76.337
+          "cum_m": -154.681,
+          "bar_m": 76.312
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -54.238,
-          "bar_m": 9.588
+          "cum_m": -203.942,
+          "bar_m": 23.284
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -140.884,
-          "bar_m": 16.17
+          "cum_m": -106.893,
+          "bar_m": 16.143
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4886.501,
-          "bar_m": 100.46
+          "cum_m": 3738.867,
+          "bar_m": 100.534
         }
       }
     },
@@ -1922,58 +1932,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 8333.535,
-          "bar_m": 5086.173
+          "cum_m": 11355.354,
+          "bar_m": 495.877
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2121.453,
-          "bar_m": 48.04
+          "cum_m": -1782.49,
+          "bar_m": 48.078
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1527.854,
-          "bar_m": -44.419
+          "cum_m": 1431.651,
+          "bar_m": -44.377
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 7115.025,
-          "bar_m": 93.341
+          "cum_m": 3995.101,
+          "bar_m": 93.492
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 464.791,
-          "bar_m": 12.272
+          "cum_m": 76.443,
+          "bar_m": 12.271
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 66.656,
-          "bar_m": 81.197
+          "cum_m": -279.115,
+          "bar_m": 134.152
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 541.048,
-          "bar_m": 474.099
+          "cum_m": 522.159,
+          "bar_m": 473.804
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 89.511,
-          "bar_m": 55.251
+          "cum_m": -114.542,
+          "bar_m": 40.139
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -28.996,
-          "bar_m": 25.241
+          "cum_m": -178.118,
+          "bar_m": 25.824
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -99.858,
-          "bar_m": 41.025
+          "cum_m": -137.538,
+          "bar_m": -30.644
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5203.345,
-          "bar_m": 316.844
+          "cum_m": 3916.252,
+          "bar_m": 177.385
         }
       }
     },
@@ -1983,58 +1993,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 8039.534,
-          "bar_m": -294.001
+          "cum_m": 11061.338,
+          "bar_m": -294.017
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1811.757,
-          "bar_m": 309.696
+          "cum_m": -1526.155,
+          "bar_m": 256.335
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1500.753,
-          "bar_m": -27.101
+          "cum_m": 1404.559,
+          "bar_m": -27.091
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 7128.953,
-          "bar_m": 13.928
+          "cum_m": 4018.425,
+          "bar_m": 23.324
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 321.056,
-          "bar_m": -143.735
+          "cum_m": 83.549,
+          "bar_m": 7.105
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -16.24,
-          "bar_m": -82.896
+          "cum_m": -339.164,
+          "bar_m": -60.05
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 558.491,
-          "bar_m": 17.443
+          "cum_m": 539.586,
+          "bar_m": 17.427
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 79.394,
-          "bar_m": -10.117
+          "cum_m": -171.837,
+          "bar_m": -57.295
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -46.912,
-          "bar_m": -17.915
+          "cum_m": -196.069,
+          "bar_m": -17.951
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -115.317,
-          "bar_m": -15.459
+          "cum_m": -127.468,
+          "bar_m": 10.069
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5170.566,
-          "bar_m": -32.779
+          "cum_m": 3883.479,
+          "bar_m": -32.774
         }
       }
     },
@@ -2044,58 +2054,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 8257.058,
-          "bar_m": 217.524
+          "cum_m": 11278.702,
+          "bar_m": 217.365
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2325.485,
-          "bar_m": -513.728
+          "cum_m": -2116.803,
+          "bar_m": -590.648
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1402.802,
-          "bar_m": -97.951
+          "cum_m": 1305.995,
+          "bar_m": -98.565
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 5836.097,
-          "bar_m": -1292.856
+          "cum_m": 3940.088,
+          "bar_m": -78.337
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 290.491,
-          "bar_m": -30.565
+          "cum_m": 53.006,
+          "bar_m": -30.543
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 221.749,
-          "bar_m": 237.99
+          "cum_m": -233.723,
+          "bar_m": 105.442
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 562.142,
-          "bar_m": 3.651
+          "cum_m": 543.252,
+          "bar_m": 3.666
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 96.302,
+          "cum_m": -154.928,
           "bar_m": 16.909
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -18.041,
-          "bar_m": 28.871
+          "cum_m": -167.194,
+          "bar_m": 28.875
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -73.927,
-          "bar_m": 41.39
+          "cum_m": -86.116,
+          "bar_m": 41.352
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5003.041,
-          "bar_m": -167.525
+          "cum_m": 3716.103,
+          "bar_m": -167.376
         }
       }
     },
@@ -2105,58 +2115,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 6085.259,
-          "bar_m": -2171.799
+          "cum_m": 11425.036,
+          "bar_m": 146.334
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2212.881,
-          "bar_m": 112.604
+          "cum_m": -2115.417,
+          "bar_m": 1.386
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1305.903,
-          "bar_m": -96.899
+          "cum_m": 1209.096,
+          "bar_m": -96.898
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 5748.514,
-          "bar_m": -87.584
+          "cum_m": 3852.858,
+          "bar_m": -87.23
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 275.073,
-          "bar_m": -15.418
+          "cum_m": 38.221,
+          "bar_m": -14.784
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 197.03,
-          "bar_m": -24.72
+          "cum_m": -258.422,
+          "bar_m": -24.699
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 570.317,
-          "bar_m": 8.175
+          "cum_m": 551.444,
+          "bar_m": 8.192
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 84.334,
-          "bar_m": -11.969
+          "cum_m": -166.494,
+          "bar_m": -11.566
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -37.222,
-          "bar_m": -19.181
+          "cum_m": -186.478,
+          "bar_m": -19.284
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": -6.852,
-          "bar_m": 67.075
+          "cum_m": -35.738,
+          "bar_m": 50.378
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4869.758,
-          "bar_m": -133.283
+          "cum_m": 3617.1,
+          "bar_m": -99.002
         }
       }
     },
@@ -2166,58 +2176,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 5829.317,
-          "bar_m": -255.942
+          "cum_m": 11225.152,
+          "bar_m": -199.883
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2218.167,
-          "bar_m": -5.285
+          "cum_m": -2099.037,
+          "bar_m": 16.38
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 974.603,
-          "bar_m": -331.3
+          "cum_m": 1060.52,
+          "bar_m": -148.576
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 5707.069,
-          "bar_m": -41.445
+          "cum_m": 3836.363,
+          "bar_m": -16.496
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 307.591,
-          "bar_m": 32.518
+          "cum_m": 71.166,
+          "bar_m": 32.945
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 112.945,
-          "bar_m": -84.085
+          "cum_m": -432.924,
+          "bar_m": -174.502
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 544.622,
-          "bar_m": -25.695
+          "cum_m": 525.727,
+          "bar_m": -25.717
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 98.152,
-          "bar_m": 13.818
+          "cum_m": -153.947,
+          "bar_m": 12.548
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -44.123,
-          "bar_m": -6.901
+          "cum_m": -175.123,
+          "bar_m": 11.355
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 50.691,
-          "bar_m": 57.544
+          "cum_m": -78.381,
+          "bar_m": -42.644
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4854.535,
-          "bar_m": -15.223
+          "cum_m": 3601.811,
+          "bar_m": -15.289
         }
       }
     },
@@ -2227,58 +2237,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 4529.358,
-          "bar_m": -1299.959
+          "cum_m": 11277.699,
+          "bar_m": 52.547
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2173.138,
-          "bar_m": 45.029
+          "cum_m": -2108.05,
+          "bar_m": -9.013
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 925.603,
-          "bar_m": -49.0
+          "cum_m": 1094.876,
+          "bar_m": 34.356
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 5822.307,
-          "bar_m": 115.238
+          "cum_m": 4045.873,
+          "bar_m": 209.51
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 336.224,
-          "bar_m": 28.633
+          "cum_m": 99.801,
+          "bar_m": 28.635
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 253.713,
-          "bar_m": 140.768
+          "cum_m": -344.701,
+          "bar_m": 88.222
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 734.314,
-          "bar_m": 189.692
+          "cum_m": 594.633,
+          "bar_m": 68.906
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 74.869,
-          "bar_m": -23.282
+          "cum_m": -196.214,
+          "bar_m": -42.267
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -28.25,
-          "bar_m": 15.873
+          "cum_m": -159.251,
+          "bar_m": 15.872
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 71.012,
-          "bar_m": 20.321
+          "cum_m": -58.043,
+          "bar_m": 20.339
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4844.721,
-          "bar_m": -9.814
+          "cum_m": 3591.983,
+          "bar_m": -9.827
         }
       }
     },
@@ -2288,58 +2298,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 4764.35,
-          "bar_m": 234.993
+          "cum_m": 11069.18,
+          "bar_m": -208.519
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2155.308,
-          "bar_m": 17.83
+          "cum_m": -2090.395,
+          "bar_m": 17.655
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 870.344,
-          "bar_m": -55.259
+          "cum_m": 1135.492,
+          "bar_m": 40.616
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 5882.615,
-          "bar_m": 60.309
+          "cum_m": 4106.203,
+          "bar_m": 60.33
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 339.837,
-          "bar_m": 3.613
+          "cum_m": 66.833,
+          "bar_m": -32.968
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 272.114,
-          "bar_m": 18.401
+          "cum_m": -325.503,
+          "bar_m": 19.198
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 663.546,
-          "bar_m": -70.767
+          "cum_m": 523.747,
+          "bar_m": -70.886
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 56.035,
-          "bar_m": -18.835
+          "cum_m": -212.015,
+          "bar_m": -15.801
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -18.451,
-          "bar_m": 9.799
+          "cum_m": -149.433,
+          "bar_m": 9.818
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 285.855,
-          "bar_m": 214.842
+          "cum_m": -41.946,
+          "bar_m": 16.097
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4957.721,
-          "bar_m": 112.999
+          "cum_m": 3706.584,
+          "bar_m": 114.6
         }
       }
     },
@@ -2349,58 +2359,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 4569.99,
-          "bar_m": -194.36
+          "cum_m": 10858.515,
+          "bar_m": -210.665
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2101.627,
-          "bar_m": 53.681
+          "cum_m": -2003.091,
+          "bar_m": 87.304
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 738.758,
-          "bar_m": -131.586
+          "cum_m": 1028.495,
+          "bar_m": -106.997
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 5861.579,
-          "bar_m": -21.036
+          "cum_m": 4085.156,
+          "bar_m": -21.047
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 333.775,
-          "bar_m": -6.062
+          "cum_m": 60.853,
+          "bar_m": -5.98
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 174.291,
-          "bar_m": -97.823
+          "cum_m": -725.262,
+          "bar_m": -399.758
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 635.921,
-          "bar_m": -27.626
+          "cum_m": 495.947,
+          "bar_m": -27.8
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 23.976,
-          "bar_m": -32.059
+          "cum_m": -243.748,
+          "bar_m": -31.732
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -55.22,
-          "bar_m": -36.769
+          "cum_m": -260.242,
+          "bar_m": -110.809
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 429.824,
-          "bar_m": 143.969
+          "cum_m": -35.669,
+          "bar_m": 6.277
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4903.243,
-          "bar_m": -54.478
+          "cum_m": 3652.114,
+          "bar_m": -54.47
         }
       }
     },
@@ -2410,58 +2420,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 5022.846,
-          "bar_m": 452.855
+          "cum_m": 11685.377,
+          "bar_m": 826.862
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2077.771,
-          "bar_m": 23.856
+          "cum_m": -1979.227,
+          "bar_m": 23.864
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 755.651,
-          "bar_m": 16.894
+          "cum_m": 933.519,
+          "bar_m": -94.976
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 5899.029,
-          "bar_m": 37.45
+          "cum_m": 4122.619,
+          "bar_m": 37.463
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 352.883,
-          "bar_m": 19.108
+          "cum_m": 79.828,
+          "bar_m": 18.975
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 175.388,
-          "bar_m": 1.097
+          "cum_m": -707.815,
+          "bar_m": 17.447
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 632.053,
-          "bar_m": -3.868
+          "cum_m": 492.119,
+          "bar_m": -3.828
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -9.626,
-          "bar_m": -33.602
+          "cum_m": -277.348,
+          "bar_m": -33.601
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -68.963,
-          "bar_m": -13.743
+          "cum_m": -426.366,
+          "bar_m": -166.124
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 442.623,
-          "bar_m": 12.8
+          "cum_m": 59.311,
+          "bar_m": 94.98
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4892.206,
-          "bar_m": -11.036
+          "cum_m": 3641.07,
+          "bar_m": -11.043
         }
       }
     },
@@ -2471,58 +2481,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 5554.484,
-          "bar_m": 531.638
+          "cum_m": 11556.324,
+          "bar_m": -129.054
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2045.252,
-          "bar_m": 32.519
+          "cum_m": -2719.584,
+          "bar_m": -740.356
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 728.688,
-          "bar_m": -26.963
+          "cum_m": 619.951,
+          "bar_m": -313.568
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 5963.18,
-          "bar_m": 64.152
+          "cum_m": 4187.252,
+          "bar_m": 64.633
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 382.118,
-          "bar_m": 29.235
+          "cum_m": 109.058,
+          "bar_m": 29.23
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 277.232,
-          "bar_m": 101.844
+          "cum_m": -617.586,
+          "bar_m": 90.229
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 662.027,
-          "bar_m": 29.974
+          "cum_m": 521.485,
+          "bar_m": 29.366
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 46.423,
-          "bar_m": 56.049
+          "cum_m": -299.963,
+          "bar_m": -22.615
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -81.769,
-          "bar_m": -12.806
+          "cum_m": -439.162,
+          "bar_m": -12.796
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 459.533,
-          "bar_m": 16.91
+          "cum_m": 76.217,
+          "bar_m": 16.906
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4902.669,
-          "bar_m": 10.462
+          "cum_m": 3651.598,
+          "bar_m": 10.528
         }
       }
     },
@@ -2532,58 +2542,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 6893.012,
-          "bar_m": 1338.528
+          "cum_m": 13152.745,
+          "bar_m": 1596.422
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1773.042,
-          "bar_m": 272.21
+          "cum_m": -2447.318,
+          "bar_m": 272.266
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 864.335,
-          "bar_m": 135.647
+          "cum_m": 853.322,
+          "bar_m": 233.371
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6387.757,
-          "bar_m": 424.577
+          "cum_m": 4611.959,
+          "bar_m": 424.707
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 402.801,
-          "bar_m": 20.682
+          "cum_m": 129.783,
+          "bar_m": 20.725
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 808.3,
-          "bar_m": 531.069
+          "cum_m": -284.038,
+          "bar_m": 333.548
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -12.477,
-          "bar_m": -674.504
+          "cum_m": 46.542,
+          "bar_m": -474.943
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -5.146,
-          "bar_m": -51.569
+          "cum_m": -351.54,
+          "bar_m": -51.577
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -55.188,
-          "bar_m": 26.58
+          "cum_m": -391.456,
+          "bar_m": 47.705
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 601.503,
-          "bar_m": 141.97
+          "cum_m": 375.314,
+          "bar_m": 299.097
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5169.365,
-          "bar_m": 266.696
+          "cum_m": 3918.253,
+          "bar_m": 266.655
         }
       }
     },
@@ -2593,58 +2603,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 7323.293,
-          "bar_m": 430.281
+          "cum_m": 13542.43,
+          "bar_m": 389.684
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1968.98,
-          "bar_m": -195.938
+          "cum_m": -2610.974,
+          "bar_m": -163.657
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 798.81,
-          "bar_m": -65.525
+          "cum_m": 788.887,
+          "bar_m": -64.435
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6287.359,
-          "bar_m": -100.398
+          "cum_m": 4453.463,
+          "bar_m": -158.496
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 347.619,
-          "bar_m": -55.182
+          "cum_m": 74.58,
+          "bar_m": -55.203
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 709.578,
-          "bar_m": -98.723
+          "cum_m": -382.793,
+          "bar_m": -98.755
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 78.537,
-          "bar_m": 91.014
+          "cum_m": 137.517,
+          "bar_m": 90.975
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -243.947,
-          "bar_m": -238.801
+          "cum_m": -362.033,
+          "bar_m": -10.493
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -104.363,
-          "bar_m": -49.175
+          "cum_m": -401.904,
+          "bar_m": -10.448
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 577.405,
-          "bar_m": -24.098
+          "cum_m": 277.829,
+          "bar_m": -97.485
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5049.823,
-          "bar_m": -119.542
+          "cum_m": 3798.818,
+          "bar_m": -119.435
         }
       }
     },
@@ -2654,58 +2664,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 7625.595,
-          "bar_m": 302.302
+          "cum_m": 13844.757,
+          "bar_m": 302.328
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1941.07,
-          "bar_m": 27.91
+          "cum_m": -2583.054,
+          "bar_m": 27.92
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 651.155,
-          "bar_m": -147.655
+          "cum_m": 757.497,
+          "bar_m": -31.39
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6270.91,
-          "bar_m": -16.449
+          "cum_m": 4401.997,
+          "bar_m": -51.466
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 375.926,
-          "bar_m": 28.308
+          "cum_m": 77.935,
+          "bar_m": 3.355
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 608.6,
-          "bar_m": -100.978
+          "cum_m": -473.191,
+          "bar_m": -90.398
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 234.682,
-          "bar_m": 156.145
+          "cum_m": 182.915,
+          "bar_m": 45.398
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -252.678,
-          "bar_m": -8.732
+          "cum_m": -370.754,
+          "bar_m": -8.721
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -148.067,
-          "bar_m": -43.704
+          "cum_m": -445.617,
+          "bar_m": -43.713
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 366.822,
-          "bar_m": -210.583
+          "cum_m": 67.507,
+          "bar_m": -210.321
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5458.197,
-          "bar_m": 408.374
+          "cum_m": 4207.244,
+          "bar_m": 408.425
         }
       }
     },
@@ -2715,58 +2725,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 7029.747,
-          "bar_m": -595.848
+          "cum_m": 13248.897,
+          "bar_m": -595.86
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2024.764,
-          "bar_m": -83.694
+          "cum_m": -2666.769,
+          "bar_m": -83.715
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 705.909,
-          "bar_m": 54.754
+          "cum_m": 765.403,
+          "bar_m": 7.906
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6207.562,
-          "bar_m": -63.348
+          "cum_m": 4338.634,
+          "bar_m": -63.363
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 399.719,
-          "bar_m": 23.793
+          "cum_m": 101.87,
+          "bar_m": 23.934
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 430.215,
-          "bar_m": -178.385
+          "cum_m": -651.068,
+          "bar_m": -177.877
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 99.921,
-          "bar_m": -134.761
+          "cum_m": 48.127,
+          "bar_m": -134.787
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -178.266,
-          "bar_m": 74.412
+          "cum_m": -354.811,
+          "bar_m": 15.943
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -167.419,
-          "bar_m": -19.352
+          "cum_m": -464.165,
+          "bar_m": -18.548
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 369.045,
-          "bar_m": 2.223
+          "cum_m": 69.732,
+          "bar_m": 2.225
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5091.088,
-          "bar_m": -367.109
+          "cum_m": 3853.808,
+          "bar_m": -353.435
         }
       }
     },
@@ -2776,58 +2786,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 6620.001,
-          "bar_m": -409.747
+          "cum_m": 12838.872,
+          "bar_m": -410.025
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1920.241,
-          "bar_m": 104.522
+          "cum_m": -2563.14,
+          "bar_m": 103.628
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 714.71,
-          "bar_m": 8.801
+          "cum_m": 749.146,
+          "bar_m": -16.257
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6299.855,
-          "bar_m": 92.293
+          "cum_m": 4430.944,
+          "bar_m": 92.31
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 421.8,
-          "bar_m": 22.081
+          "cum_m": 123.954,
+          "bar_m": 22.085
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 486.578,
-          "bar_m": 56.362
+          "cum_m": -594.725,
+          "bar_m": 56.343
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 129.714,
-          "bar_m": 29.793
+          "cum_m": 77.938,
+          "bar_m": 29.811
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -150.101,
-          "bar_m": 28.165
+          "cum_m": -326.642,
+          "bar_m": 28.169
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -150.716,
-          "bar_m": 16.704
+          "cum_m": -447.457,
+          "bar_m": 16.708
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 426.405,
-          "bar_m": 57.359
+          "cum_m": 67.989,
+          "bar_m": -1.743
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5217.755,
-          "bar_m": 126.667
+          "cum_m": 3623.364,
+          "bar_m": -230.444
         }
       }
     },
@@ -2837,58 +2847,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -4736.636,
-          "bar_m": -11356.636
+          "cum_m": 12213.56,
+          "bar_m": -625.312
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1934.889,
-          "bar_m": -14.648
+          "cum_m": -2578.321,
+          "bar_m": -15.181
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 678.493,
-          "bar_m": -36.217
+          "cum_m": 713.672,
+          "bar_m": -35.474
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6261.859,
-          "bar_m": -37.996
+          "cum_m": 4417.619,
+          "bar_m": -13.325
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 459.534,
-          "bar_m": 37.734
+          "cum_m": 161.945,
+          "bar_m": 37.991
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 582.654,
-          "bar_m": 96.076
+          "cum_m": -646.718,
+          "bar_m": -51.993
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 125.058,
-          "bar_m": -4.657
+          "cum_m": 73.282,
+          "bar_m": -4.656
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -135.789,
-          "bar_m": 14.312
+          "cum_m": -269.848,
+          "bar_m": 56.794
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -172.791,
-          "bar_m": -22.076
+          "cum_m": -482.04,
+          "bar_m": -34.583
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 407.797,
-          "bar_m": -18.607
+          "cum_m": -13.612,
+          "bar_m": -81.601
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5218.276,
-          "bar_m": 0.521
+          "cum_m": 3623.855,
+          "bar_m": 0.491
         }
       }
     },
@@ -2898,58 +2908,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -4949.844,
-          "bar_m": -213.208
+          "cum_m": 12157.567,
+          "bar_m": -55.993
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1880.403,
-          "bar_m": 54.486
+          "cum_m": -2523.733,
+          "bar_m": 54.588
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 816.688,
-          "bar_m": 138.195
+          "cum_m": 851.769,
+          "bar_m": 138.097
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6481.833,
-          "bar_m": 219.974
+          "cum_m": 4439.646,
+          "bar_m": 22.027
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 418.383,
-          "bar_m": -41.151
+          "cum_m": 120.788,
+          "bar_m": -41.157
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 628.865,
-          "bar_m": 46.211
+          "cum_m": -565.249,
+          "bar_m": 81.469
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 693.512,
-          "bar_m": 568.454
+          "cum_m": 57.949,
+          "bar_m": -15.332
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -154.896,
-          "bar_m": -19.107
+          "cum_m": -288.999,
+          "bar_m": -19.15
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -190.328,
-          "bar_m": -17.537
+          "cum_m": -520.0,
+          "bar_m": -37.96
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 235.3,
-          "bar_m": -172.498
+          "cum_m": -186.126,
+          "bar_m": -172.513
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5524.7,
-          "bar_m": 306.424
+          "cum_m": 3929.59,
+          "bar_m": 305.734
         }
       }
     },
@@ -2959,58 +2969,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -5121.929,
-          "bar_m": -172.086
+          "cum_m": 11985.965,
+          "bar_m": -171.602
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1203.084,
-          "bar_m": 677.319
+          "cum_m": -2413.184,
+          "bar_m": 110.55
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1023.872,
-          "bar_m": 207.185
+          "cum_m": 1463.004,
+          "bar_m": 611.235
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6429.614,
-          "bar_m": -52.219
+          "cum_m": 4352.121,
+          "bar_m": -87.525
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 482.55,
-          "bar_m": 64.168
+          "cum_m": 135.461,
+          "bar_m": 14.673
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 905.604,
-          "bar_m": 276.739
+          "cum_m": -627.563,
+          "bar_m": -62.314
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 711.341,
-          "bar_m": 17.829
+          "cum_m": 75.715,
+          "bar_m": 17.765
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -132.148,
-          "bar_m": 22.748
+          "cum_m": -266.279,
+          "bar_m": 22.72
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -158.388,
-          "bar_m": 31.941
+          "cum_m": -488.006,
+          "bar_m": 31.994
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 306.72,
-          "bar_m": 71.42
+          "cum_m": -114.71,
+          "bar_m": 71.415
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5444.323,
-          "bar_m": -80.377
+          "cum_m": 3848.835,
+          "bar_m": -80.755
         }
       }
     },
@@ -3020,58 +3030,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -4873.178,
-          "bar_m": 248.751
+          "cum_m": 11910.22,
+          "bar_m": -75.744
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -747.598,
-          "bar_m": 455.485
+          "cum_m": -2076.323,
+          "bar_m": 336.861
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1282.253,
-          "bar_m": 258.381
+          "cum_m": 1651.826,
+          "bar_m": 188.822
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6592.452,
-          "bar_m": 162.838
+          "cum_m": 4514.633,
+          "bar_m": 162.512
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 513.073,
-          "bar_m": 30.522
+          "cum_m": 166.009,
+          "bar_m": 30.547
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 942.145,
-          "bar_m": 36.541
+          "cum_m": -591.196,
+          "bar_m": 36.367
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 693.546,
-          "bar_m": -17.796
+          "cum_m": -148.889,
+          "bar_m": -224.604
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -185.195,
-          "bar_m": -53.047
+          "cum_m": -319.31,
+          "bar_m": -53.032
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -158.91,
-          "bar_m": -0.522
+          "cum_m": -466.808,
+          "bar_m": 21.198
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 368.218,
-          "bar_m": 61.498
+          "cum_m": -89.654,
+          "bar_m": 25.056
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5634.116,
-          "bar_m": 189.793
+          "cum_m": 4038.619,
+          "bar_m": 189.784
         }
       }
     },
@@ -3081,58 +3091,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -4667.454,
-          "bar_m": 205.725
+          "cum_m": 12115.899,
+          "bar_m": 205.679
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -735.652,
-          "bar_m": 11.946
+          "cum_m": -2159.929,
+          "bar_m": -83.606
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1232.7,
-          "bar_m": -49.553
+          "cum_m": 1428.469,
+          "bar_m": -223.357
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6602.255,
-          "bar_m": 9.803
+          "cum_m": 4524.415,
+          "bar_m": 9.782
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 511.315,
-          "bar_m": -1.758
+          "cum_m": 164.226,
+          "bar_m": -1.783
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 956.92,
-          "bar_m": 14.775
+          "cum_m": -703.906,
+          "bar_m": -112.711
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 684.885,
-          "bar_m": -8.66
+          "cum_m": -157.555,
+          "bar_m": -8.666
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -160.492,
-          "bar_m": 24.702
+          "cum_m": -294.612,
+          "bar_m": 24.699
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -132.012,
-          "bar_m": 26.898
+          "cum_m": -439.906,
+          "bar_m": 26.903
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 308.12,
-          "bar_m": -60.098
+          "cum_m": -106.277,
+          "bar_m": -16.623
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5545.882,
-          "bar_m": -88.234
+          "cum_m": 3950.333,
+          "bar_m": -88.286
         }
       }
     },
@@ -3142,58 +3152,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -4978.306,
-          "bar_m": -310.852
+          "cum_m": 11805.209,
+          "bar_m": -310.69
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -795.072,
-          "bar_m": -59.42
+          "cum_m": -2219.333,
+          "bar_m": -59.404
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1143.445,
-          "bar_m": -89.255
+          "cum_m": 1339.291,
+          "bar_m": -89.178
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6568.901,
-          "bar_m": -33.354
+          "cum_m": 4491.022,
+          "bar_m": -33.392
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 527.573,
-          "bar_m": 16.258
+          "cum_m": 180.489,
+          "bar_m": 16.263
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 418.341,
-          "bar_m": -538.579
+          "cum_m": -1256.65,
+          "bar_m": -552.744
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 719.786,
-          "bar_m": 34.901
+          "cum_m": -151.538,
+          "bar_m": 6.017
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -214.927,
-          "bar_m": -54.435
+          "cum_m": -350.37,
+          "bar_m": -55.758
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -123.888,
-          "bar_m": 8.124
+          "cum_m": -431.754,
+          "bar_m": 8.152
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 296.617,
-          "bar_m": -11.503
+          "cum_m": -117.774,
+          "bar_m": -11.497
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5647.027,
-          "bar_m": 101.145
+          "cum_m": 4235.411,
+          "bar_m": 285.078
         }
       }
     },
@@ -3203,58 +3213,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -5097.393,
-          "bar_m": -119.087
+          "cum_m": 11686.146,
+          "bar_m": -119.063
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -444.077,
-          "bar_m": 350.995
+          "cum_m": -2090.714,
+          "bar_m": 128.619
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 858.178,
-          "bar_m": -285.268
+          "cum_m": 1353.835,
+          "bar_m": 14.544
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6658.825,
-          "bar_m": 89.924
+          "cum_m": 13830.644,
+          "bar_m": 9339.622
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 600.942,
-          "bar_m": 73.369
+          "cum_m": 305.74,
+          "bar_m": 125.251
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 750.918,
-          "bar_m": 332.577
+          "cum_m": -1054.316,
+          "bar_m": 202.335
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 529.356,
-          "bar_m": -190.431
+          "cum_m": -211.993,
+          "bar_m": -60.455
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -165.278,
-          "bar_m": 49.65
+          "cum_m": -300.76,
+          "bar_m": 49.61
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -89.121,
-          "bar_m": 34.767
+          "cum_m": -242.984,
+          "bar_m": 188.77
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 362.219,
-          "bar_m": 65.602
+          "cum_m": -92.216,
+          "bar_m": 25.559
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5632.66,
-          "bar_m": -14.367
+          "cum_m": 4221.053,
+          "bar_m": -14.358
         }
       }
     },
@@ -3264,58 +3274,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -4607.648,
-          "bar_m": 489.745
+          "cum_m": 17445.338,
+          "bar_m": 5759.193
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -461.009,
-          "bar_m": -16.932
+          "cum_m": -2022.427,
+          "bar_m": 68.287
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 882.049,
-          "bar_m": 23.872
+          "cum_m": 1377.033,
+          "bar_m": 23.198
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 7046.476,
-          "bar_m": 387.651
+          "cum_m": 14232.508,
+          "bar_m": 401.864
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 651.318,
-          "bar_m": 50.376
+          "cum_m": 310.455,
+          "bar_m": 4.715
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 802.282,
-          "bar_m": 51.364
+          "cum_m": -318.305,
+          "bar_m": 736.011
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 575.628,
-          "bar_m": 46.272
+          "cum_m": -165.726,
+          "bar_m": 46.267
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -168.452,
-          "bar_m": -3.175
+          "cum_m": -303.932,
+          "bar_m": -3.172
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -133.359,
-          "bar_m": -44.237
+          "cum_m": -287.218,
+          "bar_m": -44.234
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 372.704,
-          "bar_m": 10.486
+          "cum_m": -81.75,
+          "bar_m": 10.466
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5600.721,
-          "bar_m": -31.94
+          "cum_m": 4189.11,
+          "bar_m": -31.942
         }
       }
     },
@@ -3325,58 +3335,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -4106.363,
-          "bar_m": 501.285
+          "cum_m": 17219.707,
+          "bar_m": -225.631
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -668.136,
-          "bar_m": -207.128
+          "cum_m": -2276.109,
+          "bar_m": -253.683
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 912.383,
-          "bar_m": 30.334
+          "cum_m": 1407.409,
+          "bar_m": 30.376
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 7068.478,
-          "bar_m": 22.002
+          "cum_m": 14254.509,
+          "bar_m": 22.001
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 647.991,
-          "bar_m": -3.327
+          "cum_m": 307.133,
+          "bar_m": -3.322
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 839.564,
-          "bar_m": 37.282
+          "cum_m": -285.895,
+          "bar_m": 32.41
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 521.808,
-          "bar_m": -53.819
+          "cum_m": -219.563,
+          "bar_m": -53.837
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -172.292,
-          "bar_m": -3.84
+          "cum_m": -307.631,
+          "bar_m": -3.699
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -163.372,
-          "bar_m": -30.013
+          "cum_m": -317.233,
+          "bar_m": -30.015
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 93.074,
-          "bar_m": -279.63
+          "cum_m": -108.446,
+          "bar_m": -26.696
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5605.672,
-          "bar_m": 4.952
+          "cum_m": 4194.064,
+          "bar_m": 4.953
         }
       }
     },
@@ -3386,58 +3396,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -4936.315,
-          "bar_m": -829.952
+          "cum_m": 16389.722,
+          "bar_m": -829.986
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -508.883,
-          "bar_m": 159.254
+          "cum_m": -2082.864,
+          "bar_m": 193.246
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 819.352,
-          "bar_m": -93.032
+          "cum_m": 1307.599,
+          "bar_m": -99.81
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6950.592,
-          "bar_m": -117.886
+          "cum_m": 14136.624,
+          "bar_m": -117.885
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 685.558,
-          "bar_m": 37.566
+          "cum_m": 497.439,
+          "bar_m": 190.306
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 665.244,
-          "bar_m": -174.32
+          "cum_m": -450.055,
+          "bar_m": -164.16
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 649.032,
-          "bar_m": 127.223
+          "cum_m": 423.059,
+          "bar_m": 642.622
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -193.547,
-          "bar_m": -21.254
+          "cum_m": -333.568,
+          "bar_m": -25.937
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -155.623,
-          "bar_m": 7.748
+          "cum_m": -309.492,
+          "bar_m": 7.741
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 107.681,
-          "bar_m": 14.607
+          "cum_m": -93.857,
+          "bar_m": 14.588
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5238.8,
-          "bar_m": -366.872
+          "cum_m": 3818.263,
+          "bar_m": -375.801
         }
       }
     },
@@ -3447,58 +3457,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -5392.845,
-          "bar_m": -456.53
+          "cum_m": 15895.18,
+          "bar_m": -494.541
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -549.907,
-          "bar_m": -41.024
+          "cum_m": -2123.556,
+          "bar_m": -40.692
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1123.252,
-          "bar_m": 303.9
+          "cum_m": 1379.314,
+          "bar_m": 71.716
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6895.207,
-          "bar_m": -55.384
+          "cum_m": 14082.315,
+          "bar_m": -54.31
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 725.617,
-          "bar_m": 40.06
+          "cum_m": 537.736,
+          "bar_m": 40.298
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 556.066,
-          "bar_m": -109.179
+          "cum_m": -560.767,
+          "bar_m": -110.713
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 979.514,
-          "bar_m": 330.482
+          "cum_m": 487.45,
+          "bar_m": 64.391
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -153.665,
-          "bar_m": 39.882
+          "cum_m": -293.676,
+          "bar_m": 39.892
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -196.762,
-          "bar_m": -41.138
+          "cum_m": -350.662,
+          "bar_m": -41.17
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 102.921,
-          "bar_m": -4.76
+          "cum_m": -98.617,
+          "bar_m": -4.759
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5015.136,
-          "bar_m": -223.664
+          "cum_m": 3594.598,
+          "bar_m": -223.665
         }
       }
     },
@@ -3508,58 +3518,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -5536.979,
-          "bar_m": -144.134
+          "cum_m": 15751.025,
+          "bar_m": -144.155
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -741.039,
-          "bar_m": -191.132
+          "cum_m": -2169.016,
+          "bar_m": -45.46
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1079.98,
-          "bar_m": -43.272
+          "cum_m": 1324.71,
+          "bar_m": -54.605
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 6899.156,
-          "bar_m": 3.948
+          "cum_m": 14105.395,
+          "bar_m": 23.08
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 708.919,
-          "bar_m": -16.698
+          "cum_m": 522.345,
+          "bar_m": -15.392
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 521.827,
-          "bar_m": -34.239
+          "cum_m": -593.98,
+          "bar_m": -33.212
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 1022.051,
-          "bar_m": 42.537
+          "cum_m": 529.983,
+          "bar_m": 42.533
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -186.992,
-          "bar_m": -33.328
+          "cum_m": -298.363,
+          "bar_m": -4.687
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -197.094,
-          "bar_m": -0.333
+          "cum_m": -349.822,
+          "bar_m": 0.84
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 108.512,
-          "bar_m": 5.591
+          "cum_m": -100.7,
+          "bar_m": -2.083
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4909.057,
-          "bar_m": -106.08
+          "cum_m": 3488.543,
+          "bar_m": -106.055
         }
       }
     },
@@ -3569,58 +3579,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -5174.31,
-          "bar_m": 362.669
+          "cum_m": 16113.641,
+          "bar_m": 362.616
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2685.108,
-          "bar_m": -1944.069
+          "cum_m": -2349.939,
+          "bar_m": -180.923
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 807.575,
-          "bar_m": -272.405
+          "cum_m": 1292.137,
+          "bar_m": -32.573
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 7500.833,
-          "bar_m": 601.677
+          "cum_m": 14707.084,
+          "bar_m": 601.689
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 662.623,
-          "bar_m": -46.296
+          "cum_m": 476.075,
+          "bar_m": -46.27
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -197.036,
-          "bar_m": -718.862
+          "cum_m": -816.044,
+          "bar_m": -222.064
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 1024.688,
-          "bar_m": 2.637
+          "cum_m": 411.937,
+          "bar_m": -118.046
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -224.284,
-          "bar_m": -37.291
+          "cum_m": -335.667,
+          "bar_m": -37.304
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -194.223,
-          "bar_m": 2.871
+          "cum_m": -346.953,
+          "bar_m": 2.869
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 231.217,
-          "bar_m": 122.705
+          "cum_m": -65.058,
+          "bar_m": 35.642
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4624.328,
-          "bar_m": -284.728
+          "cum_m": 3203.852,
+          "bar_m": -284.691
         }
       }
     },
@@ -3630,58 +3640,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -4027.915,
-          "bar_m": 1146.396
+          "cum_m": 17259.938,
+          "bar_m": 1146.297
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2840.262,
-          "bar_m": -155.154
+          "cum_m": -2438.285,
+          "bar_m": -88.346
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 117.16,
-          "bar_m": -690.415
+          "cum_m": 1150.283,
+          "bar_m": -141.854
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 7515.075,
-          "bar_m": 14.241
+          "cum_m": 14721.404,
+          "bar_m": 14.32
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 629.822,
-          "bar_m": -32.801
+          "cum_m": 443.254,
+          "bar_m": -32.821
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -292.622,
-          "bar_m": -95.587
+          "cum_m": -1035.697,
+          "bar_m": -219.653
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 956.174,
-          "bar_m": -68.514
+          "cum_m": 216.112,
+          "bar_m": -195.825
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -261.998,
-          "bar_m": -37.714
+          "cum_m": -450.757,
+          "bar_m": -115.09
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -287.755,
-          "bar_m": -93.532
+          "cum_m": -379.733,
+          "bar_m": -32.78
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 201.214,
-          "bar_m": -30.003
+          "cum_m": -123.368,
+          "bar_m": -58.31
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 4715.448,
-          "bar_m": 91.12
+          "cum_m": 3294.988,
+          "bar_m": 91.136
         }
       }
     },
@@ -3691,58 +3701,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": -165.72,
-          "bar_m": 3862.195
+          "cum_m": 20910.355,
+          "bar_m": 3650.417
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2826.633,
-          "bar_m": 13.629
+          "cum_m": -2522.791,
+          "bar_m": -84.506
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": -68.498,
-          "bar_m": -185.658
+          "cum_m": 1114.668,
+          "bar_m": -35.615
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 10763.221,
-          "bar_m": 3248.146
+          "cum_m": 17969.522,
+          "bar_m": 3248.119
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 608.48,
-          "bar_m": -21.342
+          "cum_m": 421.909,
+          "bar_m": -21.345
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -379.604,
-          "bar_m": -86.981
+          "cum_m": -1714.502,
+          "bar_m": -678.804
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 934.289,
-          "bar_m": -21.885
+          "cum_m": 194.238,
+          "bar_m": -21.873
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -292.619,
-          "bar_m": -30.621
+          "cum_m": -473.275,
+          "bar_m": -22.518
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -285.302,
-          "bar_m": 2.453
+          "cum_m": -581.258,
+          "bar_m": -201.525
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 168.045,
-          "bar_m": -33.168
+          "cum_m": -268.833,
+          "bar_m": -145.465
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5102.649,
-          "bar_m": 387.201
+          "cum_m": 3682.171,
+          "bar_m": 387.182
         }
       }
     },
@@ -3752,58 +3762,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 1613.619,
-          "bar_m": 1779.338
+          "cum_m": 22697.994,
+          "bar_m": 1787.639
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -3113.699,
-          "bar_m": -287.067
+          "cum_m": -2810.014,
+          "bar_m": -287.223
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": -229.589,
-          "bar_m": -161.09
+          "cum_m": 1016.534,
+          "bar_m": -98.134
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 10926.639,
-          "bar_m": 163.418
+          "cum_m": 18133.114,
+          "bar_m": 163.592
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 554.444,
-          "bar_m": -54.036
+          "cum_m": 367.817,
+          "bar_m": -54.092
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -244.587,
-          "bar_m": 135.017
+          "cum_m": -1410.044,
+          "bar_m": 304.457
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 981.112,
-          "bar_m": 46.823
+          "cum_m": 242.409,
+          "bar_m": 48.171
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -236.867,
-          "bar_m": 55.752
+          "cum_m": -417.526,
+          "bar_m": 55.748
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -232.141,
+          "cum_m": -528.097,
           "bar_m": 53.161
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 183.742,
-          "bar_m": 15.697
+          "cum_m": -193.448,
+          "bar_m": 75.385
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5401.499,
-          "bar_m": 298.85
+          "cum_m": 3981.024,
+          "bar_m": 298.854
         }
       }
     },
@@ -3813,58 +3823,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 192.653,
-          "bar_m": -1420.966
+          "cum_m": 21276.466,
+          "bar_m": -1421.528
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -3303.921,
-          "bar_m": -190.222
+          "cum_m": -2858.693,
+          "bar_m": -48.679
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": -333.813,
-          "bar_m": -104.225
+          "cum_m": 907.644,
+          "bar_m": -108.89
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 10562.934,
-          "bar_m": -363.704
+          "cum_m": 17769.444,
+          "bar_m": -363.67
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 512.052,
-          "bar_m": -42.392
+          "cum_m": 325.449,
+          "bar_m": -42.368
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -521.641,
-          "bar_m": -277.055
+          "cum_m": -1951.604,
+          "bar_m": -541.56
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 940.254,
-          "bar_m": -40.859
+          "cum_m": 201.576,
+          "bar_m": -40.834
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -288.681,
-          "bar_m": -51.813
+          "cum_m": -469.397,
+          "bar_m": -51.871
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -295.896,
-          "bar_m": -63.755
+          "cum_m": -591.855,
+          "bar_m": -63.758
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 121.071,
-          "bar_m": -62.671
+          "cum_m": -256.133,
+          "bar_m": -62.685
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5341.051,
-          "bar_m": -60.448
+          "cum_m": 3920.572,
+          "bar_m": -60.453
         }
       }
     },
@@ -3874,58 +3884,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 285.541,
-          "bar_m": 92.889
+          "cum_m": 21369.628,
+          "bar_m": 93.162
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -3436.54,
-          "bar_m": -132.619
+          "cum_m": -2991.089,
+          "bar_m": -132.396
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": -440.579,
-          "bar_m": -106.766
+          "cum_m": 800.864,
+          "bar_m": -106.78
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 10478.978,
-          "bar_m": -83.956
+          "cum_m": 17430.449,
+          "bar_m": -338.995
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 550.692,
-          "bar_m": 38.64
+          "cum_m": 369.397,
+          "bar_m": 43.948
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -792.082,
-          "bar_m": -270.441
+          "cum_m": -2222.089,
+          "bar_m": -270.485
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 1332.02,
-          "bar_m": 391.766
+          "cum_m": 593.369,
+          "bar_m": 391.794
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -346.853,
-          "bar_m": -58.172
+          "cum_m": -621.589,
+          "bar_m": -152.191
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -333.133,
-          "bar_m": -37.236
+          "cum_m": -629.106,
+          "bar_m": -37.252
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 76.741,
-          "bar_m": -44.33
+          "cum_m": -300.605,
+          "bar_m": -44.471
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5273.737,
-          "bar_m": -67.314
+          "cum_m": 3853.25,
+          "bar_m": -67.321
         }
       }
     },
@@ -3935,58 +3945,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 1273.224,
-          "bar_m": 987.683
+          "cum_m": 22357.091,
+          "bar_m": 987.462
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -3191.881,
-          "bar_m": 244.658
+          "cum_m": -2785.389,
+          "bar_m": 205.7
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": -481.834,
-          "bar_m": -41.255
+          "cum_m": 891.969,
+          "bar_m": 91.105
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 10606.017,
-          "bar_m": 127.038
+          "cum_m": 17558.827,
+          "bar_m": 128.379
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 592.918,
-          "bar_m": 42.227
+          "cum_m": 411.603,
+          "bar_m": 42.206
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": -533.922,
-          "bar_m": 258.16
+          "cum_m": -1964.022,
+          "bar_m": 258.067
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 1449.54,
-          "bar_m": 117.52
+          "cum_m": 711.039,
+          "bar_m": 117.67
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -248.8,
-          "bar_m": 98.052
+          "cum_m": -522.094,
+          "bar_m": 99.495
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -291.362,
-          "bar_m": 41.77
+          "cum_m": -587.342,
+          "bar_m": 41.764
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 123.57,
-          "bar_m": 46.829
+          "cum_m": -253.758,
+          "bar_m": 46.847
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5503.912,
-          "bar_m": 230.175
+          "cum_m": 4083.437,
+          "bar_m": 230.186
         }
       }
     },
@@ -3996,58 +4006,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 1962.678,
-          "bar_m": 689.453
+          "cum_m": 23222.162,
+          "bar_m": 865.071
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -3192.342,
-          "bar_m": -0.461
+          "cum_m": -2785.795,
+          "bar_m": -0.406
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": -546.989,
-          "bar_m": -65.155
+          "cum_m": 432.309,
+          "bar_m": -459.66
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 10548.383,
-          "bar_m": -57.633
+          "cum_m": 17311.394,
+          "bar_m": -247.434
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 525.952,
-          "bar_m": -66.966
+          "cum_m": 331.791,
+          "bar_m": -79.812
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 5.005,
-          "bar_m": 538.926
+          "cum_m": -1800.38,
+          "bar_m": 163.642
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 385.935,
-          "bar_m": -1063.604
+          "cum_m": 647.396,
+          "bar_m": -63.643
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -274.288,
-          "bar_m": -25.487
+          "cum_m": -547.589,
+          "bar_m": -25.496
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -283.321,
-          "bar_m": 8.042
+          "cum_m": -588.029,
+          "bar_m": -0.687
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 147.239,
-          "bar_m": 23.669
+          "cum_m": -230.093,
+          "bar_m": 23.665
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5693.569,
-          "bar_m": 189.657
+          "cum_m": 4273.096,
+          "bar_m": 189.659
         }
       }
     },
@@ -4057,58 +4067,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 3329.18,
-          "bar_m": 1366.502
+          "cum_m": 24585.261,
+          "bar_m": 1363.099
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -3306.552,
-          "bar_m": -114.21
+          "cum_m": -2900.861,
+          "bar_m": -115.065
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": -500.368,
-          "bar_m": 46.621
+          "cum_m": 598.447,
+          "bar_m": 166.138
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 10840.115,
-          "bar_m": 291.732
+          "cum_m": 17505.751,
+          "bar_m": 194.357
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 405.94,
-          "bar_m": -120.012
+          "cum_m": 239.381,
+          "bar_m": -92.409
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 210.293,
-          "bar_m": 205.288
+          "cum_m": -1595.413,
+          "bar_m": 204.967
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 302.589,
-          "bar_m": -83.346
+          "cum_m": 564.068,
+          "bar_m": -83.328
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -243.023,
-          "bar_m": 31.265
+          "cum_m": -737.277,
+          "bar_m": -189.688
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -329.767,
-          "bar_m": -46.446
+          "cum_m": -634.482,
+          "bar_m": -46.453
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 161.05,
+          "cum_m": -216.282,
           "bar_m": 13.811
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5717.684,
-          "bar_m": 24.115
+          "cum_m": 4492.651,
+          "bar_m": 219.555
         }
       }
     },
@@ -4118,58 +4128,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 3528.543,
-          "bar_m": 199.364
+          "cum_m": 24784.557,
+          "bar_m": 199.296
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2941.29,
-          "bar_m": 365.262
+          "cum_m": -2653.786,
+          "bar_m": 247.075
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1003.846,
-          "bar_m": 1504.214
+          "cum_m": 658.857,
+          "bar_m": 60.41
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 11074.868,
-          "bar_m": 234.752
+          "cum_m": 17740.542,
+          "bar_m": 234.791
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 437.305,
-          "bar_m": 31.365
+          "cum_m": 274.314,
+          "bar_m": 34.932
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 529.688,
-          "bar_m": 319.395
+          "cum_m": -1408.563,
+          "bar_m": 186.85
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 212.597,
-          "bar_m": -89.992
+          "cum_m": 474.015,
+          "bar_m": -90.053
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -196.151,
-          "bar_m": 46.872
+          "cum_m": -700.734,
+          "bar_m": 36.543
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -300.271,
-          "bar_m": 29.496
+          "cum_m": -606.394,
+          "bar_m": 28.088
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 176.017,
-          "bar_m": 14.967
+          "cum_m": -201.313,
+          "bar_m": 14.969
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5887.698,
-          "bar_m": 170.015
+          "cum_m": 4662.678,
+          "bar_m": 170.028
         }
       }
     },
@@ -4179,58 +4189,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 4252.135,
-          "bar_m": 723.592
+          "cum_m": 24052.1,
+          "bar_m": -732.457
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -3083.167,
-          "bar_m": -141.877
+          "cum_m": -2673.237,
+          "bar_m": -19.451
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1024.61,
+          "cum_m": 679.621,
           "bar_m": 20.764
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 11033.816,
-          "bar_m": -41.051
+          "cum_m": 17699.47,
+          "bar_m": -41.072
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 603.54,
-          "bar_m": 166.235
+          "cum_m": 299.912,
+          "bar_m": 25.598
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 283.482,
-          "bar_m": -246.206
+          "cum_m": -2024.134,
+          "bar_m": -615.571
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 301.469,
-          "bar_m": 88.873
+          "cum_m": 563.307,
+          "bar_m": 89.292
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -166.111,
-          "bar_m": 30.041
+          "cum_m": -670.666,
+          "bar_m": 30.067
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -256.582,
-          "bar_m": 43.689
+          "cum_m": -562.704,
+          "bar_m": 43.69
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 168.049,
-          "bar_m": -7.967
+          "cum_m": -226.939,
+          "bar_m": -25.626
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5699.556,
-          "bar_m": -188.142
+          "cum_m": 4474.519,
+          "bar_m": -188.16
         }
       }
     },
@@ -4240,58 +4250,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 5150.077,
-          "bar_m": 897.942
+          "cum_m": 24949.744,
+          "bar_m": 897.644
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2963.396,
-          "bar_m": 119.77
+          "cum_m": -2636.419,
+          "bar_m": 36.817
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1166.935,
-          "bar_m": 142.325
+          "cum_m": 648.352,
+          "bar_m": -31.268
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 11085.988,
-          "bar_m": 52.172
+          "cum_m": 17801.287,
+          "bar_m": 101.817
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 718.657,
-          "bar_m": 115.117
+          "cum_m": 415.211,
+          "bar_m": 115.299
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 1101.482,
-          "bar_m": 818.0
+          "cum_m": -1623.445,
+          "bar_m": 400.689
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 346.78,
-          "bar_m": 45.311
+          "cum_m": 608.626,
+          "bar_m": 45.319
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -99.764,
-          "bar_m": 66.347
+          "cum_m": -620.319,
+          "bar_m": 50.347
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -248.759,
-          "bar_m": 7.824
+          "cum_m": -554.889,
+          "bar_m": 7.815
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 219.321,
-          "bar_m": 51.272
+          "cum_m": -175.671,
+          "bar_m": 51.268
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5790.294,
-          "bar_m": 90.738
+          "cum_m": 4565.31,
+          "bar_m": 90.792
         }
       }
     },
@@ -4301,58 +4311,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 6366.117,
-          "bar_m": 1216.039
+          "cum_m": 26166.561,
+          "bar_m": 1216.818
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2351.047,
-          "bar_m": 612.35
+          "cum_m": -2105.58,
+          "bar_m": 530.84
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1367.163,
-          "bar_m": 200.228
+          "cum_m": 1090.825,
+          "bar_m": 442.472
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 11344.088,
-          "bar_m": 258.099
+          "cum_m": 18059.433,
+          "bar_m": 258.146
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 894.153,
-          "bar_m": 175.496
+          "cum_m": 513.683,
+          "bar_m": 98.473
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 1656.141,
-          "bar_m": 554.659
+          "cum_m": -1248.421,
+          "bar_m": 375.024
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 440.532,
-          "bar_m": 93.752
+          "cum_m": 696.745,
+          "bar_m": 88.118
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": -16.845,
-          "bar_m": 82.919
+          "cum_m": -429.614,
+          "bar_m": 190.705
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -137.314,
-          "bar_m": 111.445
+          "cum_m": -466.742,
+          "bar_m": 88.147
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 294.471,
-          "bar_m": 75.15
+          "cum_m": -100.541,
+          "bar_m": 75.13
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 6028.942,
-          "bar_m": 238.648
+          "cum_m": 4803.886,
+          "bar_m": 238.576
         }
       }
     },
@@ -4362,58 +4372,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 5221.866,
-          "bar_m": -1144.25
+          "cum_m": 25023.789,
+          "bar_m": -1142.773
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2217.424,
-          "bar_m": 133.623
+          "cum_m": -2020.839,
+          "bar_m": 84.74
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1404.926,
-          "bar_m": 37.763
+          "cum_m": 1128.792,
+          "bar_m": 37.968
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 11215.828,
-          "bar_m": -128.26
+          "cum_m": 17897.892,
+          "bar_m": -161.541
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 936.267,
-          "bar_m": 42.114
+          "cum_m": 555.795,
+          "bar_m": 42.112
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 1266.546,
-          "bar_m": -389.595
+          "cum_m": -1464.644,
+          "bar_m": -216.223
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 410.284,
+          "cum_m": 666.496,
           "bar_m": -30.249
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 90.877,
-          "bar_m": 107.722
+          "cum_m": -403.008,
+          "bar_m": 26.606
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -133.488,
-          "bar_m": 3.826
+          "cum_m": -462.926,
+          "bar_m": 3.816
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 270.8,
-          "bar_m": -23.671
+          "cum_m": -124.211,
+          "bar_m": -23.67
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5738.329,
-          "bar_m": -290.613
+          "cum_m": 4513.258,
+          "bar_m": -290.629
         }
       }
     },
@@ -4423,58 +4433,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 6536.467,
-          "bar_m": 1314.601
+          "cum_m": 26339.052,
+          "bar_m": 1315.263
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2045.795,
-          "bar_m": 171.629
+          "cum_m": -1936.524,
+          "bar_m": 84.316
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1475.927,
-          "bar_m": 71.001
+          "cum_m": 1199.843,
+          "bar_m": 71.05
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 11422.774,
-          "bar_m": 206.946
+          "cum_m": 18104.923,
+          "bar_m": 207.031
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 901.339,
-          "bar_m": -34.928
+          "cum_m": 437.02,
+          "bar_m": -118.775
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 3087.551,
-          "bar_m": 1821.004
+          "cum_m": -1025.868,
+          "bar_m": 438.776
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 366.871,
-          "bar_m": -43.413
+          "cum_m": 623.108,
+          "bar_m": -43.388
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 159.239,
-          "bar_m": 68.362
+          "cum_m": -334.652,
+          "bar_m": 68.355
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -148.141,
-          "bar_m": -14.654
+          "cum_m": -431.071,
+          "bar_m": 31.855
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 519.934,
-          "bar_m": 249.134
+          "cum_m": -57.923,
+          "bar_m": 66.288
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5674.177,
-          "bar_m": -64.151
+          "cum_m": 4449.082,
+          "bar_m": -64.175
         }
       }
     },
@@ -4484,58 +4494,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 6912.624,
-          "bar_m": 376.157
+          "cum_m": 26715.227,
+          "bar_m": 376.175
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2017.767,
-          "bar_m": 28.028
+          "cum_m": -1953.585,
+          "bar_m": -17.062
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1617.272,
-          "bar_m": 141.345
+          "cum_m": 1340.816,
+          "bar_m": 140.974
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 11464.771,
-          "bar_m": 41.997
+          "cum_m": 17998.761,
+          "bar_m": -106.162
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 879.829,
-          "bar_m": -21.509
+          "cum_m": 415.773,
+          "bar_m": -21.247
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 2621.587,
-          "bar_m": -465.964
+          "cum_m": -1151.669,
+          "bar_m": -125.801
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 360.549,
-          "bar_m": -6.322
+          "cum_m": 616.802,
+          "bar_m": -6.306
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 119.335,
-          "bar_m": -39.904
+          "cum_m": -374.57,
+          "bar_m": -39.918
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -182.016,
-          "bar_m": -33.875
+          "cum_m": -464.909,
+          "bar_m": -33.839
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 562.091,
-          "bar_m": 42.157
+          "cum_m": -15.747,
+          "bar_m": 42.176
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5935.329,
-          "bar_m": 261.152
+          "cum_m": 4704.763,
+          "bar_m": 255.68
         }
       }
     },
@@ -4545,58 +4555,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 6907.632,
+          "cum_m": 26710.235,
           "bar_m": -4.992
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -2122.228,
-          "bar_m": -104.46
+          "cum_m": -2001.851,
+          "bar_m": -48.266
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1494.023,
-          "bar_m": -123.249
+          "cum_m": 1217.548,
+          "bar_m": -123.268
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 11363.817,
-          "bar_m": -100.954
+          "cum_m": 17896.875,
+          "bar_m": -101.887
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 934.939,
-          "bar_m": 55.109
+          "cum_m": 427.757,
+          "bar_m": 11.985
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 2722.385,
-          "bar_m": 100.798
+          "cum_m": -1050.099,
+          "bar_m": 101.57
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 416.609,
-          "bar_m": 56.06
+          "cum_m": 672.86,
+          "bar_m": 56.059
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 104.617,
-          "bar_m": -14.718
+          "cum_m": -389.258,
+          "bar_m": -14.688
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -161.429,
-          "bar_m": 20.588
+          "cum_m": -444.54,
+          "bar_m": 20.369
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 619.052,
-          "bar_m": 56.961
+          "cum_m": 41.189,
+          "bar_m": 56.937
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 5883.903,
-          "bar_m": -51.426
+          "cum_m": 4653.321,
+          "bar_m": -51.442
         }
       }
     },
@@ -4606,58 +4616,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 8129.584,
-          "bar_m": 1221.951
+          "cum_m": 27931.451,
+          "bar_m": 1221.216
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1669.276,
-          "bar_m": 452.952
+          "cum_m": -1718.342,
+          "bar_m": 283.509
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1580.368,
-          "bar_m": 86.346
+          "cum_m": 1307.341,
+          "bar_m": 89.793
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 11665.642,
-          "bar_m": 301.824
+          "cum_m": 18324.869,
+          "bar_m": 427.994
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 969.632,
-          "bar_m": 34.693
+          "cum_m": 462.503,
+          "bar_m": 34.745
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 2896.326,
-          "bar_m": 173.941
+          "cum_m": -815.427,
+          "bar_m": 234.672
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 269.34,
-          "bar_m": -147.269
+          "cum_m": 525.581,
+          "bar_m": -147.279
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 126.91,
-          "bar_m": 22.293
+          "cum_m": -366.957,
+          "bar_m": 22.301
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -86.157,
-          "bar_m": 75.272
+          "cum_m": -369.272,
+          "bar_m": 75.268
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 681.752,
-          "bar_m": 62.7
+          "cum_m": 103.363,
+          "bar_m": 62.174
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 6052.424,
-          "bar_m": 168.521
+          "cum_m": 4821.872,
+          "bar_m": 168.551
         }
       }
     },
@@ -4667,58 +4677,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 9201.285,
-          "bar_m": 1071.702
+          "cum_m": 29004.008,
+          "bar_m": 1072.557
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1438.117,
-          "bar_m": 231.159
+          "cum_m": -1489.292,
+          "bar_m": 229.05
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1692.975,
-          "bar_m": 112.606
+          "cum_m": 1419.985,
+          "bar_m": 112.644
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 11976.64,
-          "bar_m": 310.999
+          "cum_m": 18642.799,
+          "bar_m": 317.93
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 1075.804,
-          "bar_m": 106.173
+          "cum_m": 568.729,
+          "bar_m": 106.227
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 2857.044,
-          "bar_m": -39.282
+          "cum_m": -855.14,
+          "bar_m": -39.713
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 228.719,
-          "bar_m": -40.621
+          "cum_m": 484.971,
+          "bar_m": -40.61
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 98.1,
-          "bar_m": -28.81
+          "cum_m": -395.777,
+          "bar_m": -28.82
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -33.266,
-          "bar_m": 52.891
+          "cum_m": -316.39,
+          "bar_m": 52.882
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 714.774,
-          "bar_m": 33.022
+          "cum_m": 136.362,
+          "bar_m": 32.999
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 6400.28,
-          "bar_m": 347.856
+          "cum_m": 5169.534,
+          "bar_m": 347.661
         }
       }
     },
@@ -4728,58 +4738,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 8011.512,
-          "bar_m": -1189.773
+          "cum_m": 27859.234,
+          "bar_m": -1144.774
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1557.473,
-          "bar_m": -119.356
+          "cum_m": -1608.679,
+          "bar_m": -119.386
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1524.9,
-          "bar_m": -168.075
+          "cum_m": 1249.71,
+          "bar_m": -170.275
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 12486.797,
-          "bar_m": 510.157
+          "cum_m": 19148.29,
+          "bar_m": 505.491
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 1008.308,
-          "bar_m": -67.496
+          "cum_m": 499.116,
+          "bar_m": -69.613
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 3112.505,
-          "bar_m": 255.461
+          "cum_m": -602.096,
+          "bar_m": 253.043
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": -32.815,
-          "bar_m": -261.534
+          "cum_m": 223.316,
+          "bar_m": -261.655
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 93.725,
-          "bar_m": -4.375
+          "cum_m": -402.029,
+          "bar_m": -6.252
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": -5.584,
-          "bar_m": 27.681
+          "cum_m": -289.086,
+          "bar_m": 27.304
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 709.327,
-          "bar_m": -5.447
+          "cum_m": 130.041,
+          "bar_m": -6.321
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 6690.913,
-          "bar_m": 290.633
+          "cum_m": 5460.204,
+          "bar_m": 290.67
         }
       }
     },
@@ -4789,58 +4799,58 @@
       "sectors": {
         "Information Technology": {
           "zh": "科技",
-          "cum_m": 9579.234,
-          "bar_m": 1567.722
+          "cum_m": 30095.774,
+          "bar_m": 2236.54
         },
         "Financials": {
           "zh": "金融",
-          "cum_m": -1826.955,
-          "bar_m": -269.483
+          "cum_m": -1919.81,
+          "bar_m": -311.131
         },
         "Health Care": {
           "zh": "醫療保健",
-          "cum_m": 1736.968,
-          "bar_m": 212.068
+          "cum_m": 1453.034,
+          "bar_m": 203.324
         },
         "Consumer Discretionary": {
           "zh": "非必需消費",
-          "cum_m": 12559.544,
-          "bar_m": 72.747
+          "cum_m": 19257.189,
+          "bar_m": 108.899
         },
         "Consumer Staples": {
           "zh": "必需消費",
-          "cum_m": 1056.366,
-          "bar_m": 48.058
+          "cum_m": 546.609,
+          "bar_m": 47.493
         },
         "Industrials": {
           "zh": "工業",
-          "cum_m": 3254.253,
-          "bar_m": 141.748
+          "cum_m": -455.752,
+          "bar_m": 146.345
         },
         "Energy": {
           "zh": "能源",
-          "cum_m": 89.054,
-          "bar_m": 121.869
+          "cum_m": 325.162,
+          "bar_m": 101.846
         },
         "Utilities": {
           "zh": "公用事業",
-          "cum_m": 56.253,
-          "bar_m": -37.472
+          "cum_m": -446.427,
+          "bar_m": -44.398
         },
         "Real Estate": {
           "zh": "房地產",
-          "cum_m": 15.866,
-          "bar_m": 21.45
+          "cum_m": -267.623,
+          "bar_m": 21.463
         },
         "Materials": {
           "zh": "材料",
-          "cum_m": 980.066,
-          "bar_m": 270.739
+          "cum_m": 401.658,
+          "bar_m": 271.616
         },
         "Communication Services": {
           "zh": "通訊服務",
-          "cum_m": 10153.291,
-          "bar_m": 3462.378
+          "cum_m": 9381.297,
+          "bar_m": 3921.093
         }
       }
     }
@@ -4851,58 +4861,58 @@
     "sectors": {
       "Information Technology": {
         "zh": "科技",
-        "cum_m": 9579.234,
-        "bar_m": 1567.722
+        "cum_m": 30095.774,
+        "bar_m": 2236.54
       },
       "Financials": {
         "zh": "金融",
-        "cum_m": -1826.955,
-        "bar_m": -269.483
+        "cum_m": -1919.81,
+        "bar_m": -311.131
       },
       "Health Care": {
         "zh": "醫療保健",
-        "cum_m": 1736.968,
-        "bar_m": 212.068
+        "cum_m": 1453.034,
+        "bar_m": 203.324
       },
       "Consumer Discretionary": {
         "zh": "非必需消費",
-        "cum_m": 12559.544,
-        "bar_m": 72.747
+        "cum_m": 19257.189,
+        "bar_m": 108.899
       },
       "Consumer Staples": {
         "zh": "必需消費",
-        "cum_m": 1056.366,
-        "bar_m": 48.058
+        "cum_m": 546.609,
+        "bar_m": 47.493
       },
       "Industrials": {
         "zh": "工業",
-        "cum_m": 3254.253,
-        "bar_m": 141.748
+        "cum_m": -455.752,
+        "bar_m": 146.345
       },
       "Energy": {
         "zh": "能源",
-        "cum_m": 89.054,
-        "bar_m": 121.869
+        "cum_m": 325.162,
+        "bar_m": 101.846
       },
       "Utilities": {
         "zh": "公用事業",
-        "cum_m": 56.253,
-        "bar_m": -37.472
+        "cum_m": -446.427,
+        "bar_m": -44.398
       },
       "Real Estate": {
         "zh": "房地產",
-        "cum_m": 15.866,
-        "bar_m": 21.45
+        "cum_m": -267.623,
+        "bar_m": 21.463
       },
       "Materials": {
         "zh": "材料",
-        "cum_m": 980.066,
-        "bar_m": 270.739
+        "cum_m": 401.658,
+        "bar_m": 271.616
       },
       "Communication Services": {
         "zh": "通訊服務",
-        "cum_m": 10153.291,
-        "bar_m": 3462.378
+        "cum_m": 9381.297,
+        "bar_m": 3921.093
       }
     }
   }
